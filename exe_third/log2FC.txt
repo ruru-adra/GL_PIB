@@ -1,0 +1,894 @@
+OsID	species	experiment_acc	treatment	log2FC	adj_pvalue			
+Os04g0401000	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 72 hour; coleoptile	-9.5	3.52E-45			
+Os04g0401000	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 96 hour; coleoptile	-7.8	8.70E-38			
+Os01g0859300	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	7.1	5.71E-12			
+Os02g0703600	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	7	2.47E-47			
+Os02g0703600	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 8 hour vs control; tolerant to chilling	6.1	7.32E-05			
+Os04g0401000	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 48 hour; coleoptile	-6	9.79E-14			
+Os02g0703600	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in C418	5.9	2.89E-06			
+Os02g0703600	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	5.9	0.000134625			
+Os02g0703600	oryza sativa	E-GEOD-37940	12 hour;cold stress vs 0 hour;control in C418	5.8	1.28E-06			
+Os02g0703600	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in C418	5.7	2.57E-07			
+Os02g0703600	oryza sativa	E-GEOD-37940	6 hour;cold stress vs 0 hour;control in C418	5.7	9.56E-06			
+Os02g0703600	oryza sativa	E-GEOD-37940	2 hour;cold stress vs 0 hour;control in C418	5.7	1.97E-05			
+Os01g0911700	oryza sativa	E-MTAB-4406	moderately resistant to bacterial panicle blight disease vs susceptible to bacterial panicle blight disease in control at flowering stage	-5.6	9.49E-25			
+Os03g0700400	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	-5.5	1.64E-35			
+Os02g0703600	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 2 hour vs control; tolerant to chilling	5.5	0.00033265			
+Os01g0859300	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 24 hour	5.4	3.62E-09			
+Os02g0703600	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 48 hour vs control; tolerant to chilling	5.4	1.95E-05			
+Os01g0859300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7342 vs mock	5.3	3.71E-21			
+Os02g0703600	oryza sativa	E-MTAB-5941	cold temperature regimen; 2 hour vs none; 0 hour in Volano	5.2	9.06E-81			
+Os01g0911700	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 96 hour; coleoptile	5.2	1.19E-18			
+Os01g0713600	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	-5.2	0.000622458			
+Os01g0859300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain B8-12 vs mock	5.1	2.07E-17			
+Os01g0859300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS256 vs mock	5.1	1.76E-16			
+Os02g0120100	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	5.1	4.56E-06			
+Os02g0703600	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	5	1.65E-05			
+Os02g0703600	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 48 hour vs control; sensitive to chilling	5	7.65E-05			
+Os01g0859300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7341 vs mock	4.9	1.96E-20			
+Os01g0859300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS279 vs mock	4.9	9.75E-17			
+Os03g0103300	oryza sativa	E-GEOD-35843	Meloidogyne graminicola vs mock in root tip at 7 day	4.9	3.13E-06			
+Os02g0703600	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	-4.8	4.90E-40			
+Os02g0703600	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 8 hour vs control; sensitive to chilling	4.6	9.62E-05			
+Os01g0859300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain L8 vs mock	4.5	5.02E-10			
+Os02g0724000	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 12 hour	4.4	1.35E-220			
+Os03g0103300	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 96 hour; coleoptile	4.4	3.67E-191			
+Os01g0883800	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Thaibonnet	-4.4	2.11E-08			
+Os05g0158500	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7331 vs mock	4.3	9.07E-166			
+Os03g0762000	oryza sativa	E-GEOD-11175	drought and salt tolerance (dst) mutant vs wild type	4.3	5.51E-07			
+Os02g0703600	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 2 hour vs control; sensitive to chilling	4.3	0.00058976			
+Os01g0911700	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	4.2	1.79E-11			
+Os02g0703600	oryza sativa	E-GEOD-37940	12 hour;cold stress vs 0 hour;control in K354	4.2	7.46E-06			
+Os02g0703600	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; none	-4.2	0.000516292			
+Os03g0103300	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 72 hour; coleoptile	4.1	0			
+Os02g0703600	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in K354	4.1	5.20E-06			
+Os02g0703600	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in K354	4.1	3.05E-05			
+Os03g0762000	oryza sativa	E-GEOD-60823	spx1 spx2 mutant vs wild type in none	4	1.82E-07			
+Os02g0787300	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 48 hour vs control; sensitive to chilling	4	6.17E-05			
+Os09g0441900	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	4	0.02107688			
+Os02g0703600	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Volano	3.9	1.02E-33			
+Os01g0859300	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	-3.9	7.03E-08			
+Os01g0859300	oryza sativa	E-MEXP-1766	"'24 hour, germination' vs '0 hour, dry seed'"	-3.9	2.98E-07			
+Os03g0122600	oryza sativa	E-GEOD-42028	MADS29 OX overexpression vs wild type	-3.9	2.21E-05			
+Os02g0703600	oryza sativa	E-GEOD-37940	6 hour;cold stress vs 0 hour;control in K354	3.9	3.59E-05			
+Os02g0703600	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME7 vs IR24; none	-3.9	0.003500005			
+Os03g0103300	oryza sativa	E-MTAB-3834	submergence low oxygen vs normal air	3.8	1.29E-12			
+Os01g0859300	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	-3.8	4.87E-08			
+Os05g0158500	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	-3.8	4.45E-07			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae T7174 vs IR24; mock	3.8	1.70E-06			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae T7174 vs IR24; none	3.8	9.06E-06			
+Os03g0762000	oryza sativa	E-GEOD-60823	spx1 spx2 mutant vs wild type in phosphate 200 micromolar	3.8	2.48E-05			
+Os01g0307500	oryza sativa	E-MEXP-2311	wild type; internode vs wild type; internode pith parenchyma	3.8	8.02E-05			
+Os01g0859300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain RS105 vs mock	3.7	1.10E-12			
+Os05g0158500	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	-3.7	4.53E-07			
+Os02g0787300	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 24 hour	3.6	4.48E-69			
+Os01g0307500	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 1 hour	-3.6	1.49E-11			
+Os01g0648000	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	-3.6	1.67E-11			
+Os01g0859300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7331 vs mock	3.6	1.33E-07			
+Os02g0787300	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	3.6	1.23E-05			
+Os03g0103300	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 504 hour	-3.5	2.28E-35			
+Os02g0120100	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS256 vs mock	3.5	4.66E-21			
+Os05g0207500	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	3.5	9.39E-07			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; mock	3.5	1.38E-05			
+Os01g0859300	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in moderately resistant to bacterial panicle blight disease at seedling stage	3.5	9.00E-05			
+Os02g0787300	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 2 hour vs control; sensitive to chilling	3.5	0.000360531			
+Os04g0469800	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 1 hour	-3.5	0.000551966			
+Os03g0700400	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	3.4	1.71E-13			
+Os01g0883800	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Volano	-3.4	5.93E-11			
+Os01g0307500	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 24 hour	-3.4	3.55E-09			
+Os02g0724000	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in C418	3.4	1.37E-07			
+Os05g0207500	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	3.4	2.31E-07			
+Os01g0859300	oryza sativa	E-MEXP-2267	24 hour vs 1 hour in anaerobic	-3.4	3.69E-07			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; none	3.4	4.69E-05			
+Os02g0703600	oryza sativa	E-GEOD-37940	2 hour;cold stress vs 0 hour;control in K354	3.4	0.000154388			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae BLS303 vs IR24; mock	3.4	0.000170706			
+Os02g0724000	oryza sativa	E-GEOD-29967	Taichung Native 1; sensitive variety to brown planthopper; 8 hour vs Taichung Native 1; sensitive variety to brown planthopper; 0 hour	3.4	0.000591741			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; mock	3.4	0.000806571			
+Os02g0120100	oryza sativa	E-MTAB-6740	seed germination stage vs seed dormant stage in  30 degree celsius; 8 hour	3.3	3.62E-41			
+Os01g0911700	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 72 hour; coleoptile	3.3	5.89E-30			
+Os03g0103300	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 10 degree celsius	-3.3	4.69E-26			
+Os02g0787300	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in C418	3.3	1.69E-07			
+Os01g0848400	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in C418	3.3	2.91E-07			
+Os05g0207500	oryza sativa	E-MEXP-2267	24 hour vs 1 hour in anaerobic	3.3	5.66E-07			
+Os02g0787300	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 48 hour vs control; tolerant to chilling	3.3	8.24E-06			
+Os08g0509600	oryza sativa	E-GEOD-34547	osbzip58-1 vs wild type	3.3	5.19E-05			
+Os02g0787300	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 8 hour vs control; sensitive to chilling	3.3	8.78E-05			
+Os02g0724000	oryza sativa	E-GEOD-54243	3 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	3.3	0.00042019			
+Os08g0509600	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 8 hour vs control; sensitive to chilling	3.3	0.000583927			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; none	3.3	0.000816762			
+Os02g0703600	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae BLS303 vs IR24; none	-3.3	0.001699785			
+Os01g0307500	oryza sativa	E-MTAB-4050	N-acetylchitoheptaose vs mock in wild type	-3.2	3.14E-13			
+Os02g0703600	oryza sativa	E-MTAB-5941	cold temperature regimen; 2 hour vs none; 0 hour in Thaibonnet	3.2	6.63E-09			
+Os02g0724000	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in K354	3.2	1.47E-06			
+Os02g0787300	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 8 hour vs control; tolerant to chilling	3.2	7.32E-05			
+Os02g0787300	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	3.2	0.000368139			
+Os02g0703600	oryza sativa	E-GEOD-25206	chromium(6+); 100 micromolar vs water	-3.2	0.000720758			
+Os01g0713600	oryza sativa	E-MTAB-6740	30 degree celsius vs 10 degree celsius in seed dormant stage; 192 hour	-3.1	6.16E-21			
+Os03g0700400	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 72 hour; coleoptile	-3.1	5.61E-12			
+Os02g0703600	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 1 hour	3.1	1.78E-10			
+Os02g0120100	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in shoot at 24 hour	3.1	8.08E-10			
+Os03g0103300	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	-3.1	2.91E-07			
+Os05g0207500	oryza sativa	E-MEXP-2267	12 hour vs 1 hour in anaerobic	3.1	2.22E-06			
+Os01g0648000	oryza sativa	E-MTAB-6740	30 degree celsius vs 10 degree celsius in seed dormant stage; 192 hour	-3.1	5.46E-06			
+Os02g0724000	oryza sativa	E-GEOD-29967	Rathu Heenati; resistant variety to brown planthopper; 8 hour vs Rathu Heenati; resistant variety to brown planthopper; 0 hour	3.1	0.000115271			
+Os05g0158500	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 48 hour vs control; tolerant to chilling	-3.1	0.000332605			
+Os01g0197100	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 72 hour; coleoptile	-3	1.11E-120			
+Os02g0703600	oryza sativa	E-MTAB-4994	drought environment vs normal watering	3	1.46E-11			
+Os01g0848400	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 96 hour; coleoptile	-3	9.04E-08			
+Os02g0724000	oryza sativa	E-MEXP-1766	"'12 hour, germination' vs '0 hour, dry seed'"	-3	2.43E-07			
+Os02g0703600	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS279 vs mock	3	2.38E-06			
+Os01g0848400	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in K354	3	4.61E-06			
+Os02g0724000	oryza sativa	E-GEOD-54243	7 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	3	2.94E-05			
+Os02g0787300	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 2 hour vs control; tolerant to chilling	3	4.18E-05			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; none	3	0.000193773			
+Os02g0724000	oryza sativa	E-GEOD-54243	3 day; 30 degree celsius vs 0 day; 20 degree celsius in hwi1	3	0.000444003			
+Os01g0848400	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 48 hour vs control; sensitive to chilling	3	0.000548969			
+Os02g0703600	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; none	-3	0.00142733			
+Os05g0158500	oryza sativa	E-GEOD-29967	Taichung Native 1; sensitive variety to brown planthopper; 24 hour vs Taichung Native 1; sensitive variety to brown planthopper; 0 hour	-3	0.001683065			
+Os02g0703600	oryza sativa	E-MEXP-2311	wild type; internode vs wild type; internode pith parenchyma	-3	0.002857313			
+Os02g0787300	oryza sativa	E-MTAB-5941	cold temperature regimen; 2 hour vs none; 0 hour in Volano	2.9	4.88E-36			
+Os02g0787300	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in K354	2.9	2.74E-06			
+Os02g0703600	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	2.9	3.12E-06			
+Os04g0401000	oryza sativa	E-MTAB-4050	N-acetylchitoheptaose vs mock in wild type	-2.9	0.000161515			
+Os02g0724000	oryza sativa	E-GEOD-54243	15 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	2.9	0.000177883			
+Os03g0762000	oryza sativa	E-GEOD-33441	before flowering stage; cyn mutant vs before flowering stage; wild type	-2.9	0.00024905			
+Os02g0120100	oryza sativa	E-GEOD-40242	cea62 mutant vs wild type	2.9	0.000391998			
+Os02g0787300	oryza sativa	E-GEOD-58603	abscisic acid; wild type genotype; sodium chloride 140 millimolar; leaf vs none; wild type genotype; sodium chloride 140 millimolar; leaf	2.9	0.0084125			
+Os02g0787300	oryza sativa	E-MTAB-5941	cold temperature regimen; 2 hour vs none; 0 hour in Thaibonnet	2.8	4.80E-44			
+Os05g0207500	oryza sativa	E-MEXP-1766	"'24 hour, germination' vs '0 hour, dry seed'"	2.8	7.46E-07			
+Os02g0703600	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	2.8	1.65E-06			
+Os01g0848400	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in C418	2.8	2.29E-06			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; mock	2.8	3.13E-06			
+Os02g0787300	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in C418	2.8	4.45E-06			
+Os01g0848400	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	2.8	3.49E-05			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; mock	2.8	3.71E-05			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; none	2.8	6.12E-05			
+Os09g0441900	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 8 hour vs control; sensitive to chilling	2.8	0.003279681			
+Os02g0703600	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae T7174 vs IR24; none	-2.8	0.004906066			
+Os02g0703600	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; none	-2.8	0.01079838			
+Os04g0615000	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	2.7	9.59E-22			
+Os03g0112700	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	2.7	1.03E-20			
+Os04g0401000	oryza sativa	E-MTAB-4406	moderately resistant to bacterial panicle blight disease vs susceptible to bacterial panicle blight disease in control at flowering stage	2.7	3.11E-15			
+Os02g0120100	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS279 vs mock	2.7	2.90E-12			
+Os01g0859300	oryza sativa	E-MTAB-4050	N-acetylchitoheptaose vs mock in wild type	2.7	2.67E-08			
+Os02g0724000	oryza sativa	E-MEXP-2267	24 hour vs 1 hour in anaerobic	-2.7	2.29E-07			
+Os02g0724000	oryza sativa	E-MEXP-2267	12 hour vs 1 hour in anaerobic	-2.7	2.31E-07			
+Os01g0648000	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	2.7	4.88E-07			
+Os01g0883800	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7342 vs mock	-2.7	5.79E-07			
+Os02g0787300	oryza sativa	E-GEOD-37940	12 hour;cold stress vs 0 hour;control in C418	2.7	2.81E-06			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; none	2.7	1.32E-05			
+Os01g0848400	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in K354	2.7	3.48E-05			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; none	2.7	5.49E-05			
+Os03g0700400	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 96 hour; coleoptile	-2.7	0.000148165			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO86 vs IR24; mock	2.7	0.000246562			
+Os02g0703600	oryza sativa	E-GEOD-69010	phr3 mutant vs wild type	2.7	0.000491794			
+Os01g0911700	oryza sativa	E-MTAB-3834	submergence low oxygen vs normal air	2.7	0.000749921			
+Os09g0441900	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	2.7	0.001127129			
+Os02g0120100	oryza sativa	E-MTAB-3834	submergence low oxygen vs normal air	2.7	0.001161894			
+Os02g0120100	oryza sativa	E-GEOD-29967	Rathu Heenati; resistant variety to brown planthopper; 24 hour vs Rathu Heenati; resistant variety to brown planthopper; 0 hour	2.7	0.002658169			
+Os01g0859300	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	2.7	0.008144594			
+Os01g0848400	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 72 hour; coleoptile	-2.6	1.68E-11			
+Os01g0911700	oryza sativa	E-MEXP-1766	"'24 hour, germination' vs '0 hour, dry seed'"	-2.6	1.61E-07			
+Os02g0724000	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in C418	2.6	2.12E-06			
+Os05g0158500	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	2.6	8.52E-06			
+Os05g0158500	oryza sativa	E-MEXP-1766	"'24 hour, germination' vs '0 hour, dry seed'"	2.6	2.02E-05			
+Os01g0883800	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 12 hour	-2.6	3.05E-05			
+Os01g0848400	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 48 hour vs control; tolerant to chilling	2.6	4.46E-05			
+Os02g0787300	oryza sativa	E-GEOD-37940	6 hour;cold stress vs 0 hour;control in C418	2.6	6.04E-05			
+Os02g0703600	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain B8-12 vs mock	2.6	0.000124503			
+Os02g0703600	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Thaibonnet	2.6	0.000167274			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO86 vs IR24; none	2.6	0.000441885			
+Os02g0703600	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain L8 vs mock	2.6	0.001381734			
+Os05g0158500	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	-2.6	0.001593494			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; none	2.6	0.001669409			
+Os02g0120100	oryza sativa	E-GEOD-29967	Taichung Native 1; sensitive variety to brown planthopper; 24 hour vs Taichung Native 1; sensitive variety to brown planthopper; 0 hour	2.6	0.010339174			
+Os03g0103300	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	2.6	0.016937452			
+Os02g0787300	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Thaibonnet	2.5	2.09E-39			
+Os02g0724000	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	-2.5	6.47E-07			
+Os02g0120100	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain L8 vs mock	2.5	2.07E-06			
+Os01g0911700	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	2.5	3.16E-05			
+Os01g0883800	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7331 vs mock	-2.5	4.93E-05			
+Os02g0724000	oryza sativa	E-GEOD-54243	7 day; 30 degree celsius vs 0 day; 20 degree celsius in hwi1	2.5	0.000346704			
+Os01g0307500	oryza sativa	E-GEOD-54243	15 day; 30 degree celsius vs 0 day; 20 degree celsius in hwi1	2.5	0.000646457			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; none	-2.5	0.000757531			
+Os02g0703600	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS256 vs mock	2.5	0.001679896			
+Os02g0120100	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 2 hour vs control; tolerant to chilling	2.5	0.002957325			
+Os01g0883800	oryza sativa	E-GEOD-42028	MADS29 OX overexpression vs wild type	2.5	0.004785008			
+Os09g0441900	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 48 hour vs control; sensitive to chilling	2.5	0.010960755			
+Os02g0703600	oryza sativa	E-GEOD-58603	none; wild type genotype; sodium chloride 140 millimolar; leaf vs none; wild type genotype; normal watering; leaf	-2.5	0.016529287			
+Os01g0911700	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 48 hour; coleoptile	2.4	8.08E-36			
+Os02g0120100	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain B8-12 vs mock	2.4	3.14E-20			
+Os02g0724000	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	-2.4	2.24E-07			
+Os05g0158500	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 6 hour	-2.4	2.79E-07			
+Os02g0703600	oryza sativa	E-MTAB-3230	PEG Stress vs normal in Mutant	-2.4	8.20E-07			
+Os05g0207500	oryza sativa	E-MEXP-1766	"'12 hour, germination' vs '0 hour, dry seed'"	2.4	6.87E-06			
+Os01g0883800	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-2.4	1.36E-05			
+Os02g0703600	oryza sativa	E-MEXP-1766	"'3 hour, germination' vs '0 hour, dry seed'"	2.4	1.48E-05			
+Os03g0700400	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in shoot at 24 hour	2.4	1.80E-05			
+Os02g0724000	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in K354	2.4	2.27E-05			
+Os01g0848400	oryza sativa	E-MTAB-6740	30 degree celsius vs 10 degree celsius in seed dormant stage; 192 hour	-2.4	0.000114548			
+Os01g0848400	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 8 hour vs control; sensitive to chilling	2.4	0.000173019			
+Os01g0307500	oryza sativa	E-GEOD-25206	chromium(6+); 100 micromolar vs water	-2.4	0.000238404			
+Os04g0615000	oryza sativa	E-GEOD-42028	MADS29 OX overexpression vs wild type	-2.4	0.000321955			
+Os01g0307500	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in shoot at 24 hour	-2.4	0.00480373			
+Os02g0787300	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Volano	2.3	3.57E-45			
+Os01g0648000	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 72 hour; coleoptile	-2.3	1.37E-39			
+Os03g0103300	oryza sativa	E-MTAB-5759	OsMPH1 overexpession vs wild type genotype	-2.3	2.50E-26			
+Os02g0724000	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7331 vs mock	2.3	2.57E-20			
+Os03g0103300	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 528 hour	-2.3	7.68E-17			
+Os01g0859300	oryza sativa	E-MTAB-4406	moderately resistant to bacterial panicle blight disease vs susceptible to bacterial panicle blight disease in control at flowering stage	-2.3	2.41E-16			
+Os02g0703600	oryza sativa	E-MTAB-6740	seed germination stage vs seed dormant stage in  30 degree celsius; 8 hour	2.3	3.97E-07			
+Os04g0469800	oryza sativa	E-MEXP-1766	"'12 hour, germination' vs '0 hour, dry seed'"	2.3	8.02E-07			
+Os01g0883800	oryza sativa	E-GEOD-115371	72 hour anaerobic environment; 24 hour aerobic environment vs none in 96 hour; coleoptile	2.3	1.03E-06			
+Os04g0469800	oryza sativa	E-MEXP-1766	"'24 hour, germination' vs '0 hour, dry seed'"	2.3	1.82E-06			
+Os02g0787300	oryza sativa	E-GEOD-37940	12 hour;cold stress vs 0 hour;control in K354	2.3	8.52E-06			
+Os04g0469800	oryza sativa	E-MEXP-2267	12 hour vs 1 hour in anaerobic	2.3	1.33E-05			
+Os04g0469800	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	2.3	1.97E-05			
+Os01g0883800	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 48 hour vs control; tolerant to chilling	-2.3	4.18E-05			
+Os02g0703600	oryza sativa	E-MEXP-2267	3 hour vs 1 hour in anaerobic	2.3	6.73E-05			
+Os01g0859300	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 528 hour	2.3	0.000294792			
+Os08g0509600	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	2.3	0.000560724			
+Os01g0883800	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae T7174 vs Nipponbare; mock	-2.3	0.000597921			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; none	2.3	0.000734464			
+Os05g0158500	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	-2.3	0.003734497			
+Os01g0883800	oryza sativa	E-GEOD-39298	Epi-df vs wild type	-2.3	0.005443429			
+Os02g0787300	oryza sativa	E-GEOD-58603	abscisic acid; salt-tolerant introgression line PL177; sodium chloride 140 millimolar; leaf vs none; salt-tolerant introgression line PL177; sodium chloride 140 millimolar; leaf	2.3	0.010817914			
+Os01g0197100	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	2.3	0.042429919			
+Os02g0787300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain L8 vs mock	2.2	1.97E-32			
+Os03g0700400	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 528 hour	2.2	8.74E-32			
+Os01g0197100	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 96 hour; coleoptile	-2.2	3.10E-27			
+Os03g0700400	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 510 hour	2.2	9.86E-27			
+Os02g0724000	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7341 vs mock	2.2	3.18E-25			
+Os02g0787300	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 1 hour	2.2	4.02E-25			
+Os02g0120100	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7342 vs mock	2.2	1.50E-11			
+Os04g0401000	oryza sativa	E-GEOD-47812	non-aromatic RILs vs non-aromatic parent	-2.2	2.39E-09			
+Os01g0307500	oryza sativa	E-GEOD-116423	ZnF8 deletion mutant vs wild type genotype in ZnF8 cohort	2.2	4.36E-09			
+Os01g0883800	oryza sativa	E-MTAB-4994	drought environment vs normal watering	-2.2	7.88E-09			
+Os02g0120100	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Thaibonnet	2.2	8.68E-09			
+Os01g0859300	oryza sativa	E-MEXP-2267	12 hour vs 1 hour in anaerobic	-2.2	3.71E-07			
+Os02g0724000	oryza sativa	E-MEXP-1766	"'24 hour, germination' vs '0 hour, dry seed'"	-2.2	7.79E-07			
+Os04g0615000	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	-2.2	1.16E-06			
+Os09g0441900	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	2.2	1.75E-06			
+Os02g0787300	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in K354	2.2	3.39E-05			
+Os01g0883800	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7341 vs mock	-2.2	4.15E-05			
+Os01g0859300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP2286 vs mock	2.2	0.000269404			
+Os02g0703600	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 24 hour	2.2	0.000365442			
+Os02g0724000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae T7174 vs Nipponbare; mock	2.2	0.000675188			
+Os02g0703600	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7342 vs mock	2.2	0.001929405			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME5 vs IR24; none	-2.2	0.002581135			
+Os04g0401000	oryza sativa	E-MEXP-2311	wild type; internode vs wild type; internode pith parenchyma	2.2	0.002760917			
+Os05g0158500	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 48 hour vs control; sensitive to chilling	-2.2	0.003557375			
+Os02g0703600	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7331 vs mock	2.2	0.003972138			
+Os02g0703600	oryza sativa	E-GEOD-42028	MADS29 OX overexpression vs wild type	2.2	0.037130691			
+Os05g0158500	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 48 hour; coleoptile	-2.1	7.98E-73			
+Os01g0648000	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 528 hour	2.1	4.14E-57			
+Os09g0441900	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	-2.1	1.30E-27			
+Os02g0724000	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 6 hour	2.1	4.81E-27			
+Os01g0648000	oryza sativa	E-GEOD-109341	sodium chloride; 100 millimolar vs none in Vialone Nano; root	-2.1	7.20E-25			
+Os09g0441900	oryza sativa	E-MTAB-5025	Laodelphax striatella vs none	-2.1	2.26E-10			
+Os04g0615000	oryza sativa	E-MTAB-4994	drought environment vs normal watering	-2.1	7.67E-10			
+Os03g0700400	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in moderately resistant to bacterial panicle blight disease at seedling stage	2.1	6.27E-09			
+Os09g0441900	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	2.1	1.31E-06			
+Os05g0158500	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	2.1	6.12E-06			
+Os04g0615000	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 24 hour	-2.1	7.66E-06			
+Os05g0158500	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	2.1	3.19E-05			
+Os05g0207500	oryza sativa	E-MEXP-1766	"'3 hour, germination' vs '0 hour, dry seed'"	2.1	8.98E-05			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae T7174 vs IR24; none	2.1	0.000346826			
+Os02g0120100	oryza sativa	E-GEOD-44250	potassium deficient medium with 6 hour resupply vs potassium deficient medium with no resupply	2.1	0.001187089			
+Os02g0120100	oryza sativa	E-GEOD-54243	3 day; 30 degree celsius vs 0 day; 20 degree celsius in hwi1	2.1	0.00244102			
+Os02g0703600	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7341 vs mock	2.1	0.003714843			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; none	-2.1	0.006213664			
+Os05g0158500	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 10 degree celsius	-2.1	0.012582285			
+Os04g0469800	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 24 hour	-2.1	0.019380283			
+Os02g0703600	oryza sativa	E-GEOD-45724	alkali; Jijing88 vs control; Jijing88	2.1	0.034858089			
+Os01g0859300	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Volano	2.1	0.042420786			
+Os02g0120100	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 48 hour; coleoptile	2	9.55E-162			
+Os01g0718300	oryza sativa	E-MTAB-5941	cold temperature regimen; 2 hour vs none; 0 hour in Thaibonnet	2	1.43E-63			
+Os09g0441900	oryza sativa	E-GEOD-116423	ZnF8 deletion mutant vs wild type genotype in ZnF8 cohort	-2	5.73E-61			
+Os01g0648000	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 96 hour; coleoptile	-2	4.49E-11			
+Os03g0103300	oryza sativa	E-MTAB-5941	Volano vs Thaibonnet in cold temperature regimen at 10 hour	2	2.88E-08			
+Os02g0703600	oryza sativa	E-GEOD-29577	coi1-13 mutant vs wild type	2	4.51E-07			
+Os09g0441900	oryza sativa	E-MEXP-2267	24 hour vs 1 hour in anaerobic	2	5.89E-07			
+Os01g0718300	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	2	1.06E-06			
+Os01g0883800	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 6 hour	-2	2.70E-06			
+Os02g0724000	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	-2	5.70E-06			
+Os04g0469800	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	-2	2.04E-05			
+Os04g0469800	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	2	5.83E-05			
+Os01g0911700	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	2	5.93E-05			
+Os02g0703600	oryza sativa	E-GEOD-33204	30 day; Huahui 1; control vs 30 day; wild type; control	-2	8.74E-05			
+Os01g0848400	oryza sativa	E-GEOD-37940	12 hour;cold stress vs 0 hour;control in K354	2	0.000142113			
+Os04g0469800	oryza sativa	E-MEXP-2311	wild type; internode vs wild type; internode pith parenchyma	2	0.000265133			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME5 vs IR24; none	2	0.000552734			
+Os02g0120100	oryza sativa	E-MTAB-4406	moderately resistant to bacterial panicle blight disease vs susceptible to bacterial panicle blight disease in control at flowering stage	-2	0.000567896			
+Os04g0401000	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-2	0.001537421			
+Os01g0713600	oryza sativa	E-GEOD-33441	5 days after pollination stage; cyn mutant vs 5 days after pollination stage; wild type	-2	0.003482626			
+Os02g0120100	oryza sativa	E-GEOD-38023	recovery from cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	2	0.005329884			
+Os04g0469800	oryza sativa	E-GEOD-25206	chromium(6+); 100 micromolar vs water	-2	0.006129395			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; none	-2	0.006675333			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO86 vs IR24; none	-2	0.007059624			
+Os01g0648000	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	-2	0.009344284			
+Os05g0158500	oryza sativa	E-GEOD-29967	Rathu Heenati; resistant variety to brown planthopper; 24 hour vs Rathu Heenati; resistant variety to brown planthopper; 0 hour	-2	0.009349525			
+Os02g0703600	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; none	-2	0.01144314			
+Os01g0848400	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	2	0.012340621			
+Os05g0187500	oryza sativa	E-GEOD-62894	pish; virulent line of rice blast fungus; susceptible at 5 day vs pish; water; susceptible at 5 day	2	0.013006637			
+Os01g0718300	oryza sativa	E-GEOD-25206	chromium(6+); 100 micromolar vs water	-2	0.040868348			
+Os03g0103300	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; shoot at 528 hour	1.9	2.78E-22			
+Os03g0700400	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 505 hour	1.9	1.20E-21			
+Os05g0158500	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 12 hour	1.9	6.15E-18			
+Os02g0724000	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain L8 vs mock	1.9	3.52E-14			
+Os03g0103300	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 3 hour; plant embryo coleoptile	-1.9	7.25E-14			
+Os09g0441900	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Volano	1.9	1.98E-09			
+Os04g0615000	oryza sativa	E-MTAB-3230	PEG Stress vs normal in Mutant	1.9	7.13E-07			
+Os01g0718300	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	1.9	1.83E-06			
+Os02g0724000	oryza sativa	E-GEOD-37940	12 hour;cold stress vs 0 hour;control in C418	1.9	2.34E-06			
+Os04g0615000	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	-1.9	2.36E-06			
+Os02g0703600	oryza sativa	E-GEOD-33204	75 day; Huahui 1; Xanthomonas oryzae pv. oryzae Pxo99 vs 75 day; wild type; Xanthomonas oryzae pv. oryzae Pxo99	-1.9	2.48E-06			
+Os02g0787300	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	1.9	1.16E-05			
+Os05g0158500	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in K354	-1.9	1.72E-05			
+Os01g0911700	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 3 hour	1.9	6.05E-05			
+Os02g0703600	oryza sativa	E-MEXP-1766	"'1 hour, germination' vs '0 hour, dry seed'"	1.9	0.000104043			
+Os02g0787300	oryza sativa	E-GEOD-37940	6 hour;cold stress vs 0 hour;control in K354	1.9	0.000119606			
+Os02g0120100	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	1.9	0.000121479			
+Os01g0883800	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 48 hour vs control; sensitive to chilling	-1.9	0.000157568			
+Os01g0883800	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP2286 vs mock	-1.9	0.000566937			
+Os01g0883800	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS256 vs mock	-1.9	0.000837162			
+Os01g0848400	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 10 degree celsius	1.9	0.001477602			
+Os01g0648000	oryza sativa	E-MTAB-4050	N-acetylchitoheptaose vs mock in wild type	-1.9	0.001782858			
+Os02g0724000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99A vs Nipponbare; mock	1.9	0.003204703			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae BLS303 vs IR24; none	1.9	0.005655979			
+Os01g0859300	oryza sativa	E-GEOD-25206	chromium(6+); 100 micromolar vs water	1.9	0.008961502			
+Os05g0158500	oryza sativa	E-MEXP-2311	mutant; internode pith parenchyma vs wild type; internode pith parenchyma	1.9	0.010081008			
+Os02g0120100	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	1.9	0.014871905			
+Os02g0703600	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME5 vs IR24; none	-1.9	0.016841246			
+Os02g0120100	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 2 hour vs control; sensitive to chilling	1.9	0.03416966			
+Os08g0509600	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in K354	1.9	0.041729897			
+Os04g0401000	oryza sativa	E-MTAB-6740	seed germination stage vs seed dormant stage in  30 degree celsius; 8 hour	-1.9	0.045862854			
+Os03g0112700	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Volano	1.8	2.12E-57			
+Os02g0724000	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 96 hour; coleoptile	-1.8	5.56E-24			
+Os02g0787300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS279 vs mock	1.8	5.65E-24			
+Os02g0703600	oryza sativa	E-GEOD-116423	ZnF8 deletion mutant vs wild type genotype in ZnF8 cohort	-1.8	2.55E-22			
+Os03g0103300	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 505 hour	-1.8	3.76E-15			
+Os02g0120100	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain RS105 vs mock	1.8	3.80E-10			
+Os03g0700400	oryza sativa	E-MTAB-6740	30 degree celsius vs 10 degree celsius in seed dormant stage; 8 hour	1.8	2.53E-09			
+Os03g0103300	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Thaibonnet	-1.8	5.43E-08			
+Os02g0724000	oryza sativa	E-MTAB-4994	drought environment vs normal watering	1.8	1.15E-07			
+Os01g0648000	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in moderately resistant to bacterial panicle blight disease at seedling stage	1.8	1.10E-06			
+Os02g0703600	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 6 hour	1.8	1.66E-06			
+Os01g0718300	oryza sativa	E-MEXP-2267	12 hour vs 1 hour in anaerobic	1.8	2.10E-06			
+Os01g0859300	oryza sativa	E-GEOD-116423	ZnF8 deletion mutant vs wild type genotype in ZnF8 cohort	1.8	7.04E-06			
+Os01g0883800	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99AME5 vs Nipponbare; mock	-1.8	7.95E-06			
+Os01g0713600	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	-1.8	9.68E-06			
+Os01g0883800	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae BLS303 vs Nipponbare; mock	-1.8	1.09E-05			
+Os04g0469800	oryza sativa	E-MTAB-5025	Laodelphax striatella vs none	-1.8	1.55E-05			
+Os02g0787300	oryza sativa	E-MEXP-1766	"'3 hour, germination' vs '0 hour, dry seed'"	1.8	1.80E-05			
+Os01g0859300	oryza sativa	E-MEXP-1766	"'12 hour, germination' vs '0 hour, dry seed'"	-1.8	4.30E-05			
+Os04g0469800	oryza sativa	E-MEXP-2267	24 hour vs 1 hour in anaerobic	1.8	5.94E-05			
+Os05g0187500	oryza sativa	E-GEOD-39432	28 days after flowering vs 7 days after flowering in endosperm	1.8	6.96E-05			
+Os02g0703600	oryza sativa	E-MTAB-5524	4-chloro-6-methyl-2-phenylpyrimidine; 100 micromolar vs vehicle at 4 hour	1.8	0.000181824			
+Os09g0441900	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	1.8	0.000208718			
+Os05g0207500	oryza sativa	E-MTAB-5025	Laodelphax striatella vs none	-1.8	0.000423187			
+Os02g0724000	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 48 hour vs control; sensitive to chilling	1.8	0.000770097			
+Os01g0307500	oryza sativa	E-GEOD-54243	7 day; 30 degree celsius vs 0 day; 20 degree celsius in hwi1	1.8	0.001430536			
+Os01g0883800	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 2 hour vs control; tolerant to chilling	-1.8	0.001440766			
+Os01g0883800	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	-1.8	0.002003463			
+Os02g0703600	oryza sativa	E-GEOD-29967	Taichung Native 1; sensitive variety to brown planthopper; 24 hour vs Taichung Native 1; sensitive variety to brown planthopper; 0 hour	-1.8	0.003866428			
+Os01g0848400	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 8 hour vs control; tolerant to chilling	1.8	0.004655626			
+Os04g0469800	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in shoot at 24 hour	-1.8	0.009935121			
+Os01g0307500	oryza sativa	E-GEOD-58603	none; wild type genotype; sodium chloride 140 millimolar; root vs none; wild type genotype; normal watering; root	1.8	0.010074282			
+Os02g0703600	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	-1.8	0.011370935			
+Os02g0703600	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 6 hour	1.8	0.017207845			
+Os05g0187500	oryza sativa	E-GEOD-21396	7.0 mm floret vs 1.5-2.0 mm floret in lemma	-1.8	0.035837004			
+Os02g0120100	oryza sativa	E-GEOD-22538	gall midge biotype 1 (GMB1) vs control	-1.8	0.043520784			
+Os02g0703600	oryza sativa	E-GEOD-58603	abscisic acid; wild type genotype; sodium chloride 140 millimolar; leaf vs none; wild type genotype; sodium chloride 140 millimolar; leaf	1.8	0.043643136			
+Os08g0509600	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 8 hour vs control; tolerant to chilling	1.8	0.047341791			
+Os03g0103300	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 48 hour; coleoptile	1.7	4.80E-135			
+Os02g0120100	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 3 hour; plant embryo coleoptile	-1.7	8.31E-87			
+Os02g0724000	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 72 hour; coleoptile	-1.7	1.08E-53			
+Os03g0112700	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Thaibonnet	1.7	1.06E-34			
+Os01g0648000	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 510 hour	1.7	2.22E-23			
+Os02g0787300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain B8-12 vs mock	1.7	2.50E-22			
+Os01g0648000	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 504 hour	1.7	3.61E-21			
+Os02g0120100	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 168 hour	-1.7	5.24E-13			
+Os05g0158500	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 24 hour; plant embryo coleoptile	-1.7	5.98E-12			
+Os05g0158500	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Thaibonnet	-1.7	7.22E-11			
+Os01g0883800	oryza sativa	E-MTAB-5025	Laodelphax striatella vs none	1.7	1.19E-10			
+Os01g0648000	oryza sativa	E-GEOD-109341	sodium chloride; 100 millimolar vs none in Baldo; root	-1.7	1.53E-09			
+Os03g0122600	oryza sativa	E-GEOD-47812	non-aromatic RILs vs non-aromatic parent	-1.7	1.54E-08			
+Os01g0922800	oryza sativa	E-MEXP-2267	24 hour vs 1 hour in anaerobic	-1.7	7.34E-07			
+Os01g0718300	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 24 hour	-1.7	1.01E-06			
+Os01g0922800	oryza sativa	E-MEXP-1766	"'24 hour, germination' vs '0 hour, dry seed'"	-1.7	1.62E-06			
+Os01g0718300	oryza sativa	E-MEXP-2267	24 hour vs 1 hour in anaerobic	1.7	1.88E-06			
+Os01g0922800	oryza sativa	E-MEXP-2267	12 hour vs 1 hour in anaerobic	-1.7	5.49E-06			
+Os01g0848400	oryza sativa	E-GEOD-37940	12 hour;cold stress vs 0 hour;control in C418	1.7	5.63E-05			
+Os01g0307500	oryza sativa	E-MTAB-5025	microinjection with insect-derived Rice stripe virus vs microinjection with extracts of nonviruliferous planthoppers	-1.7	5.67E-05			
+Os01g0883800	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-1.7	6.39E-05			
+Os05g0207500	oryza sativa	E-MTAB-3230	PEG Stress vs normal in Mutant	-1.7	8.28E-05			
+Os02g0120100	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in moderately resistant to bacterial panicle blight disease at seedling stage	1.7	0.000132137			
+Os01g0197100	oryza sativa	E-MTAB-3834	submergence low oxygen vs normal air	1.7	0.000428894			
+Os09g0441900	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Thaibonnet	1.7	0.000433033			
+Os01g0883800	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain B8-12 vs mock	-1.7	0.001067284			
+Os01g0883800	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 48 hour; coleoptile	-1.7	0.001131594			
+Os02g0724000	oryza sativa	E-GEOD-54243	15 day; 30 degree celsius vs 0 day; 20 degree celsius in hwi1	1.7	0.001504775			
+Os05g0158500	oryza sativa	E-GEOD-29967	Taichung Native 1; sensitive variety to brown planthopper; 8 hour vs Taichung Native 1; sensitive variety to brown planthopper; 0 hour	-1.7	0.001699047			
+Os05g0158500	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-1.7	0.001994957			
+Os01g0883800	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; shoot at 510 hour	-1.7	0.002414927			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME7 vs IR24; none	1.7	0.003517273			
+Os01g0307500	oryza sativa	E-GEOD-54243	15 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	1.7	0.006940043			
+Os02g0703600	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain RS105 vs mock	1.7	0.008430129			
+Os02g0703600	oryza sativa	E-GEOD-58603	none; salt-tolerant introgression line PL177; sodium chloride 140 millimolar; leaf vs none; salt-tolerant introgression line PL177; normal watering; leaf	-1.7	0.010352201			
+Os02g0703600	oryza sativa	E-GEOD-29349	osmads6-1 vs wild type	1.7	0.011212915			
+Os05g0207500	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 2 hour vs control; sensitive to chilling	-1.7	0.02108002			
+Os02g0703600	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO86 vs IR24; none	-1.7	0.036730792			
+Os02g0120100	oryza sativa	E-MTAB-4050	N-acetylchitoheptaose vs mock in wild type	1.7	0.043177226			
+Os01g0911700	oryza sativa	E-GEOD-115371	72 hour anaerobic environment; 24 hour aerobic environment vs none in 96 hour; coleoptile	1.7	0.048814701			
+Os01g0911700	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 12 hour; plant embryo coleoptile	1.6	9.95E-49			
+Os04g0615000	oryza sativa	E-MTAB-1625	normal watering at 24 hours vs. 5 hours	1.6	3.22E-47			
+Os01g0718300	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Thaibonnet	1.6	9.23E-35			
+Os04g0615000	oryza sativa	E-MTAB-1625	300 millimolar sodium chloride at 24 hours vs. 5 hours	1.6	2.51E-22			
+Os02g0120100	oryza sativa	E-GEOD-116423	ZnF5 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	-1.6	1.17E-14			
+Os03g0700400	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	-1.6	1.09E-10			
+Os02g0787300	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in shoot at 24 hour	1.6	1.45E-08			
+Os05g0158500	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Volano	-1.6	7.99E-08			
+Os04g0615000	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 6 hour	-1.6	2.97E-06			
+Os09g0441900	oryza sativa	E-MEXP-1766	"'24 hour, germination' vs '0 hour, dry seed'"	1.6	4.64E-06			
+Os02g0120100	oryza sativa	E-GEOD-37161	potassium deprivation vs control at 120 hour	1.6	1.07E-05			
+Os09g0441900	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 6 hour	-1.6	1.30E-05			
+Os01g0718300	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in C418	1.6	2.41E-05			
+Os01g0911700	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 24 hour; plant embryo coleoptile	1.6	4.44E-05			
+Os04g0615000	oryza sativa	E-MTAB-1624	normal watering at 24 hours vs. 5 hours	1.6	6.40E-05			
+Os04g0615000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; none	1.6	0.000157115			
+Os01g0648000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME5 vs IR24; mock	1.6	0.000234637			
+Os01g0307500	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in K354	-1.6	0.000324879			
+Os05g0207500	oryza sativa	E-MEXP-2267	3 hour vs 1 hour in anaerobic	1.6	0.00040579			
+Os01g0848400	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Volano	1.6	0.000527509			
+Os01g0648000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME5 vs IR24; none	1.6	0.000619287			
+Os03g0103300	oryza sativa	E-MTAB-6740	seed germination stage vs seed dormant stage in  30 degree celsius; 8 hour	-1.6	0.00109041			
+Os01g0197100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; none	1.6	0.001278461			
+Os02g0724000	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	1.6	0.001801803			
+Os02g0703600	oryza sativa	E-GEOD-54243	15 day; 30 degree celsius vs 0 day; 20 degree celsius in hwi1	1.6	0.001861445			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; mock	1.6	0.002020959			
+Os01g0883800	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99A vs Nipponbare; mock	-1.6	0.002097435			
+Os01g0713600	oryza sativa	E-GEOD-33204	30 day; Huahui 1; control vs 30 day; wild type; control	1.6	0.002343183			
+Os01g0848400	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-1.6	0.003348335			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae T7174 vs IR24; none	-1.6	0.008045493			
+Os01g0307500	oryza sativa	E-GEOD-54243	3 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	1.6	0.008963036			
+Os05g0158500	oryza sativa	E-MEXP-2311	wild type; internode vs wild type; internode pith parenchyma	1.6	0.011819622			
+Os01g0883800	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO86 vs Nipponbare; mock	-1.6	0.012194133			
+Os02g0703600	oryza sativa	E-GEOD-60823	phosphate 200 micromolar vs none in spx1 spx2 mutant	1.6	0.014942482			
+Os02g0703600	oryza sativa	E-GEOD-25206	lead; 100 micromolar vs water	-1.6	0.01871433			
+Os05g0158500	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 24 hour	-1.6	0.03006653			
+Os02g0703600	oryza sativa	E-GEOD-61833	Xanthomonas oryzae pv oryzae BXO1002 (EPS-) vs water	1.6	0.046830154			
+Os03g0112700	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	1.5	9.17E-50			
+Os01g0859300	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	-1.5	2.46E-48			
+Os01g0307500	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 528 hour	1.5	3.40E-24			
+Os01g0648000	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 505 hour	1.5	1.75E-23			
+Os03g0700400	oryza sativa	E-GEOD-116423	ZnF8 deletion mutant vs wild type genotype in ZnF8 cohort	1.5	5.19E-21			
+Os04g0615000	oryza sativa	E-MTAB-6740	30 degree celsius vs 10 degree celsius in seed dormant stage; 8 hour	1.5	7.38E-16			
+Os04g0615000	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in shoot at 24 hour	-1.5	1.79E-11			
+Os09g0441900	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 96 hour; coleoptile	1.5	4.34E-11			
+Os05g0158500	oryza sativa	E-MTAB-4994	drought environment vs normal watering	-1.5	9.44E-08			
+Os01g0848400	oryza sativa	E-MTAB-4994	drought environment vs normal watering	-1.5	9.84E-08			
+Os04g0469800	oryza sativa	E-MTAB-3230	PEG Stress vs normal in Mutant	-1.5	2.48E-06			
+Os03g0103300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain L8 vs mock	-1.5	1.02E-05			
+Os01g0718300	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in C418	1.5	1.02E-05			
+Os03g0700400	oryza sativa	E-MTAB-6740	seed germination stage vs seed dormant stage in  30 degree celsius; 8 hour	1.5	1.05E-05			
+Os05g0207500	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	-1.5	2.19E-05			
+Os05g0207500	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	-1.5	2.53E-05			
+Os05g0158500	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in C418	-1.5	2.62E-05			
+Os05g0158500	oryza sativa	E-MTAB-1625	300 millimolar sodium chloride at 24 hours vs. 5 hours	-1.5	4.13E-05			
+Os02g0724000	oryza sativa	E-GEOD-37940	12 hour;cold stress vs 0 hour;control in K354	1.5	6.87E-05			
+Os05g0158500	oryza sativa	E-MEXP-2267	24 hour vs 1 hour in anaerobic	1.5	9.46E-05			
+Os02g0703600	oryza sativa	E-MTAB-5759	OsMPH1 knockdown vs wild type genotype	1.5	9.56E-05			
+Os04g0615000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; mock	1.5	0.000177953			
+Os01g0307500	oryza sativa	E-GEOD-42028	MADS29 OX overexpression vs wild type	-1.5	0.000220849			
+Os01g0859300	oryza sativa	E-GEOD-116423	ZnF5 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	-1.5	0.000231637			
+Os03g0122600	oryza sativa	E-GEOD-25073	CHR729 mutant vs wild type	-1.5	0.000264448			
+Os03g0112700	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 48 hour vs control; tolerant to chilling	1.5	0.000325599			
+Os04g0469800	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	-1.5	0.000337896			
+Os04g0401000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99AME5 vs Nipponbare; mock	1.5	0.000385724			
+Os02g0787300	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; none	-1.5	0.000453789			
+Os02g0120100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; none	1.5	0.000900422			
+Os09g0441900	oryza sativa	E-GEOD-44250	potassium deficient medium with 6 hour resupply vs potassium deficient medium with no resupply	-1.5	0.001041025			
+Os03g0122600	oryza sativa	E-GEOD-44250	potassium deficient medium with 6 hour resupply vs potassium deficient medium with no resupply	1.5	0.001097712			
+Os01g0307500	oryza sativa	E-GEOD-54243	7 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	1.5	0.001234249			
+Os05g0158500	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in shoot at 24 hour	-1.5	0.001254175			
+Os01g0859300	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	1.5	0.001490335			
+Os04g0615000	oryza sativa	E-GEOD-29967	Rathu Heenati; resistant variety to brown planthopper; 8 hour vs Rathu Heenati; resistant variety to brown planthopper; 0 hour	-1.5	0.001816384			
+Os02g0703600	oryza sativa	E-GEOD-54243	7 day; 30 degree celsius vs 0 day; 20 degree celsius in hwi1	1.5	0.002372581			
+Os04g0401000	oryza sativa	E-GEOD-54243	15 day; 30 degree celsius vs 0 day; 20 degree celsius in hwi1	1.5	0.002628213			
+Os02g0703600	oryza sativa	E-GEOD-60823	phosphate 200 micromolar vs none in wild type	1.5	0.003080401			
+Os08g0509600	oryza sativa	E-GEOD-54243	7 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	-1.5	0.004329166			
+Os01g0883800	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain RS105 vs mock	-1.5	0.00582034			
+Os09g0441900	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in K354	1.5	0.007625878			
+Os08g0509600	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	1.5	0.012090323			
+Os03g0122600	oryza sativa	E-GEOD-54243	15 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	1.5	0.012991793			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; none	-1.5	0.013497446			
+Os01g0648000	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 10 degree celsius	1.5	0.013842712			
+Os02g0724000	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 1 hour	-1.5	0.017724498			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO86 vs IR24; none	1.5	0.023273249			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME7 vs IR24; none	-1.5	0.026445272			
+Os02g0120100	oryza sativa	E-GEOD-22538	gall midge biotype 4M (GMB4M) vs control	-1.5	0.033996471			
+Os02g0120100	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 72 hour; coleoptile	1.4	2.31E-89			
+Os04g0401000	oryza sativa	E-MTAB-5025	Laodelphax striatella vs none	-1.4	1.87E-46			
+Os02g0120100	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 504 hour	-1.4	1.09E-26			
+Os02g0724000	oryza sativa	E-MTAB-5025	microinjection with insect-derived Rice stripe virus vs microinjection with extracts of nonviruliferous planthoppers	1.4	8.31E-23			
+Os03g0700400	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 504 hour	1.4	2.45E-16			
+Os02g0787300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS256 vs mock	1.4	2.90E-13			
+Os02g0787300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain RS105 vs mock	1.4	2.49E-10			
+Os01g0648000	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 48 hour; coleoptile	-1.4	3.37E-10			
+Os03g0112700	oryza sativa	E-MTAB-4994	drought environment vs normal watering	1.4	5.01E-08			
+Os03g0112700	oryza sativa	E-MTAB-4050	N-acetylchitoheptaose vs mock in wild type	1.4	1.54E-07			
+Os02g0724000	oryza sativa	E-MTAB-1625	300 millimolar sodium chloride at 24 hours vs. 5 hours	1.4	3.85E-07			
+Os01g0648000	oryza sativa	E-GEOD-29577	coi1-13 mutant vs wild type	1.4	1.11E-06			
+Os01g0922800	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	-1.4	6.39E-06			
+Os02g0120100	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 1 hour	1.4	6.83E-06			
+Os01g0922800	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	-1.4	1.19E-05			
+Os01g0648000	oryza sativa	E-CURD-37	nitrogen fertiliser vs none in Pyricularia oryzae at 2 day	1.4	2.64E-05			
+Os02g0120100	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	1.4	3.20E-05			
+Os02g0120100	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	1.4	3.81E-05			
+Os03g0103300	oryza sativa	E-MTAB-5941	Volano vs Thaibonnet in cold temperature regimen at 2 hour	1.4	4.04E-05			
+Os02g0120100	oryza sativa	E-MTAB-5025	Laodelphax striatella vs none	-1.4	4.96E-05			
+Os01g0307500	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in C418	-1.4	7.82E-05			
+Os02g0787300	oryza sativa	E-GEOD-37940	2 hour;cold stress vs 0 hour;control in C418	1.4	9.64E-05			
+Os01g0911700	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 6 hour	1.4	0.000103147			
+Os01g0648000	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in K354	-1.4	0.000111706			
+Os02g0724000	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 24 hour	1.4	0.000137353			
+Os01g0648000	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 48 hour vs control; tolerant to chilling	-1.4	0.00028677			
+Os01g0883800	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 8 hour vs control; sensitive to chilling	-1.4	0.000325826			
+Os04g0615000	oryza sativa	E-MTAB-1624	300 millimolar sodium chloride at 24 hours vs. 5 hours	1.4	0.000399412			
+Os09g0441900	oryza sativa	E-MTAB-5524	4-chloro-6-methyl-2-phenylpyrimidine; 100 micromolar vs vehicle at 4 hour	-1.4	0.000406171			
+Os01g0648000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; mock	1.4	0.000600596			
+Os02g0724000	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 48 hour vs control; tolerant to chilling	1.4	0.000658392			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; mock	1.4	0.000706425			
+Os02g0120100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; none	1.4	0.00077488			
+Os01g0718300	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-1.4	0.000838672			
+Os02g0120100	oryza sativa	E-GEOD-39298	Epi-df vs wild type	1.4	0.0009133			
+Os01g0197100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; none	1.4	0.000934134			
+Os03g0122600	oryza sativa	E-GEOD-39298	Epi-df vs wild type	-1.4	0.001005425			
+Os01g0883800	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 2 hour vs control; sensitive to chilling	-1.4	0.001080759			
+Os01g0648000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; none	1.4	0.001278741			
+Os01g0848400	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 2 hour vs control; sensitive to chilling	1.4	0.001641189			
+Os01g0718300	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 8 hour vs control; sensitive to chilling	1.4	0.001730674			
+Os01g0859300	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	1.4	0.002149007			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae BLS303 vs IR24; none	1.4	0.002172234			
+Os02g0120100	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 8 hour vs control; tolerant to chilling	1.4	0.002240342			
+Os05g0187500	oryza sativa	E-GEOD-39432	21 days after flowering vs 7 days after flowering in endosperm	1.4	0.002304774			
+Os04g0401000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99A vs Nipponbare; mock	1.4	0.00293995			
+Os05g0158500	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 2 hour vs control; tolerant to chilling	-1.4	0.004071442			
+Os01g0859300	oryza sativa	E-GEOD-46867	pho2 knockout vs wild type in root	-1.4	0.006242908			
+Os09g0441900	oryza sativa	E-GEOD-38023	recovery from cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	-1.4	0.006891711			
+Os06g0623700	oryza sativa	E-GEOD-93081	Rcc3-OsERF48 vs wild type genotype	1.4	0.006992471			
+Os04g0469800	oryza sativa	E-MTAB-3230	PEG Stress vs normal in Wild Type	-1.4	0.00811469			
+Os01g0307500	oryza sativa	E-CURD-37	nitrogen fertiliser vs none in none at 2 day	-1.4	0.009718857			
+Os02g0120100	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP2286 vs mock	1.4	0.009933486			
+Os02g0724000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO86 vs Nipponbare; mock	1.4	0.010972625			
+Os01g0883800	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS279 vs mock	-1.4	0.014363403			
+Os05g0207500	oryza sativa	E-GEOD-25206	chromium(6+); 100 micromolar vs water	-1.4	0.029042469			
+Os01g0648000	oryza sativa	E-CURD-37	Pyricularia oryzae vs none in nitrogen fertiliser at 2 day	1.4	0.039574133			
+Os04g0615000	oryza sativa	E-GEOD-29967	Taichung Native 1; sensitive variety to brown planthopper; 8 hour vs Taichung Native 1; sensitive variety to brown planthopper; 0 hour	-1.4	0.041866096			
+Os03g0700400	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS256 vs mock	-1.4	0.049752581			
+Os09g0441900	oryza sativa	E-GEOD-116423	ZnF5 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	1.3	2.89E-31			
+Os04g0615000	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 6 hour	-1.3	2.41E-20			
+Os03g0700400	oryza sativa	E-GEOD-116423	ZnF5 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	-1.3	9.12E-20			
+Os02g0120100	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 528 hour	-1.3	1.91E-19			
+Os01g0307500	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 504 hour	1.3	1.03E-15			
+Os02g0703600	oryza sativa	E-MTAB-5025	Laodelphax striatella vs none	-1.3	9.13E-14			
+Os02g0787300	oryza sativa	E-GEOD-115371	72 hour anaerobic environment; 24 hour aerobic environment vs none in 96 hour; coleoptile	-1.3	6.22E-12			
+Os05g0158500	oryza sativa	E-MTAB-1625	normal watering at 24 hours vs. 5 hours	-1.3	2.14E-10			
+Os04g0615000	oryza sativa	E-MTAB-5025	microinjection with insect-derived Rice stripe virus vs microinjection with extracts of nonviruliferous planthoppers	1.3	9.33E-10			
+Os02g0120100	oryza sativa	E-MTAB-6740	30 degree celsius vs 10 degree celsius in seed dormant stage; 192 hour	-1.3	3.32E-09			
+Os02g0787300	oryza sativa	E-MTAB-6740	seed germination stage vs seed dormant stage in  30 degree celsius; 8 hour	1.3	9.78E-09			
+Os05g0158500	oryza sativa	E-GEOD-115371	72 hour anaerobic environment; 24 hour aerobic environment vs none in 96 hour; coleoptile	1.3	2.89E-08			
+Os04g0401000	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 12 hour	-1.3	5.29E-08			
+Os01g0922800	oryza sativa	E-MEXP-1766	"'12 hour, germination' vs '0 hour, dry seed'"	-1.3	6.95E-06			
+Os09g0441900	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in moderately resistant to bacterial panicle blight disease at seedling stage	-1.3	1.72E-05			
+Os04g0469800	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 6 hour	-1.3	2.78E-05			
+Os03g0793500	oryza sativa	E-MEXP-1766	"'12 hour, germination' vs '0 hour, dry seed'"	-1.3	4.14E-05			
+Os01g0648000	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in K354	-1.3	4.32E-05			
+Os01g0648000	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in C418	-1.3	4.89E-05			
+Os03g0793500	oryza sativa	E-MEXP-2267	24 hour vs 1 hour in anaerobic	-1.3	6.00E-05			
+Os01g0648000	oryza sativa	E-GEOD-37940	6 hour;cold stress vs 0 hour;control in K354	-1.3	8.76E-05			
+Os02g0787300	oryza sativa	E-MEXP-2267	3 hour vs 1 hour in anaerobic	1.3	8.91E-05			
+Os01g0648000	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-1.3	0.000133469			
+Os01g0648000	oryza sativa	E-GEOD-25206	chromium(6+); 100 micromolar vs water	-1.3	0.000138028			
+Os01g0718300	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	1.3	0.000494048			
+Os02g0120100	oryza sativa	E-GEOD-46867	pho2 knockout vs wild type in root	1.3	0.000559288			
+Os01g0648000	oryza sativa	E-GEOD-46867	gi knockout vs wild type in shoot	-1.3	0.000714628			
+Os01g0848400	oryza sativa	E-GEOD-37940	6 hour;cold stress vs 0 hour;control in C418	1.3	0.000716952			
+Os01g0859300	oryza sativa	E-MTAB-5524	fenclorim; 100 micromolar vs vehicle at 4 hour	1.3	0.001032068			
+Os02g0703600	oryza sativa	E-GEOD-31834	upper shoot base; 6 hour; after gravistimulation vs shoot base; control	1.3	0.00110252			
+Os05g0187500	oryza sativa	E-GEOD-21396	1.6-2.0 mm vs 0.7-1.0 mm in anther	-1.3	0.001260601			
+Os02g0703600	oryza sativa	E-MTAB-5524	fenclorim; 100 micromolar vs vehicle at 4 hour	1.3	0.001323543			
+Os01g0197100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae T7174 vs IR24; none	1.3	0.001336241			
+Os04g0469800	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-1.3	0.001382314			
+Os01g0713600	oryza sativa	E-MTAB-6740	seed germination stage vs seed dormant stage in  30 degree celsius; 8 hour	-1.3	0.001420806			
+Os02g0120100	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Volano	1.3	0.001532452			
+Os01g0883800	oryza sativa	E-GEOD-40242	cea62 mutant vs wild type	-1.3	0.001755019			
+Os02g0703600	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99AME5 vs Nipponbare; mock	1.3	0.001870133			
+Os04g0469800	oryza sativa	E-GEOD-33441	5 days after pollination stage; cyn mutant vs 5 days after pollination stage; wild type	1.3	0.002121862			
+Os01g0197100	oryza sativa	E-GEOD-46867	pho2 knockout vs wild type in shoot	1.3	0.002537043			
+Os05g0158500	oryza sativa	E-GEOD-58603	abscisic acid; salt-tolerant introgression line PL177; sodium chloride 140 millimolar; root vs none; salt-tolerant introgression line PL177; sodium chloride 140 millimolar; root	-1.3	0.002837637			
+Os05g0158500	oryza sativa	E-MTAB-4406	moderately resistant to bacterial panicle blight disease vs susceptible to bacterial panicle blight disease in control at flowering stage	1.3	0.003440046			
+Os02g0787300	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; mock	-1.3	0.00413999			
+Os03g0122600	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	1.3	0.004229942			
+Os01g0718300	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 48 hour vs control; sensitive to chilling	1.3	0.004884579			
+Os05g0158500	oryza sativa	E-MTAB-1624	300 millimolar sodium chloride at 24 hours vs. 5 hours	-1.3	0.006352025			
+Os01g0911700	oryza sativa	E-GEOD-33441	5 days after pollination stage; cyn mutant vs 5 days after pollination stage; wild type	-1.3	0.008809161			
+Os05g0158500	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 8 hour vs control; tolerant to chilling	-1.3	0.009966618			
+Os01g0883800	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; shoot at 505 hour	-1.3	0.014652146			
+Os01g0307500	oryza sativa	E-GEOD-116423	ZnF5 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	-1.3	0.015067483			
+Os01g0883800	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 72 hour; coleoptile	-1.3	0.016197515			
+Os02g0787300	oryza sativa	E-GEOD-54466	drought vs control in osnox2 mutant	1.3	0.020839999			
+Os05g0187500	oryza sativa	E-MTAB-3834	submergence low oxygen vs normal air	-1.3	0.020843525			
+Os02g0120100	oryza sativa	E-GEOD-45724	alkali; Jijing88 vs control; Jijing88	1.3	0.022635097			
+Os04g0401000	oryza sativa	E-GEOD-37940	2 hour;cold stress vs 0 hour;control in C418	-1.3	0.027742335			
+Os01g0883800	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	-1.3	0.032650053			
+Os02g0703600	oryza sativa	E-MTAB-4050	N-acetylchitoheptaose vs mock in wild type	1.3	0.034146527			
+Os03g0700400	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7341 vs mock	-1.3	0.041635762			
+Os01g0922800	oryza sativa	E-MTAB-6740	30 degree celsius vs 10 degree celsius in seed dormant stage; 192 hour	-1.2	7.37E-24			
+Os05g0158500	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	-1.2	2.69E-18			
+Os04g0615000	oryza sativa	E-MTAB-1625	normal watering at 5 hours vs. 1 hour	-1.2	4.28E-17			
+Os02g0724000	oryza sativa	E-GEOD-115371	72 hour anaerobic environment; 24 hour aerobic environment vs none in 96 hour; coleoptile	-1.2	1.34E-15			
+Os02g0787300	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 0.5 hour	1.2	8.07E-10			
+Os02g0724000	oryza sativa	E-MTAB-6740	seed germination stage vs seed dormant stage in  30 degree celsius; 8 hour	-1.2	9.66E-10			
+Os01g0883800	oryza sativa	E-GEOD-116423	ZnF8 deletion mutant vs wild type genotype in ZnF8 cohort	1.2	3.45E-09			
+Os02g0787300	oryza sativa	E-MTAB-4050	N-acetylchitoheptaose vs mock in wild type	1.2	1.02E-07			
+Os02g0724000	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain B8-12 vs mock	1.2	3.29E-07			
+Os02g0703600	oryza sativa	E-GEOD-47812	non-aromatic RILs vs non-aromatic parent	1.2	5.12E-07			
+Os05g0158500	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; shoot at 528 hour	1.2	9.97E-07			
+Os01g0718300	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 10 degree celsius	1.2	2.53E-06			
+Os02g0787300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7342 vs mock	1.2	6.09E-06			
+Os01g0718300	oryza sativa	E-MEXP-1766	"'24 hour, germination' vs '0 hour, dry seed'"	1.2	6.91E-06			
+Os01g0911700	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	-1.2	7.32E-06			
+Os01g0911700	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	-1.2	1.08E-05			
+Os02g0703600	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 3 hour	1.2	2.62E-05			
+Os02g0724000	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	-1.2	2.97E-05			
+Os02g0120100	oryza sativa	E-MEXP-2267	24 hour vs 1 hour in anaerobic	1.2	3.84E-05			
+Os01g0718300	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in K354	1.2	5.42E-05			
+Os08g0509600	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	1.2	5.49E-05			
+Os04g0401000	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	-1.2	5.69E-05			
+Os02g0724000	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 10 degree celsius	-1.2	5.80E-05			
+Os04g0615000	oryza sativa	E-GEOD-44250	potassium deficient medium with 6 hour resupply vs potassium deficient medium with no resupply	-1.2	7.98E-05			
+Os05g0158500	oryza sativa	E-GEOD-116423	ZnF5 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	1.2	8.24E-05			
+Os02g0703600	oryza sativa	E-MTAB-5118	60:1 carbon:nitrogen ratio vs 1:1 carbon:nitrogen ratio	1.2	8.54E-05			
+Os03g0103300	oryza sativa	E-GEOD-109341	sodium chloride; 100 millimolar vs none in Baldo; root	1.2	8.74E-05			
+Os01g0197100	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99AME5 vs Nipponbare; mock	-1.2	9.63E-05			
+Os01g0718300	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in K354	1.2	0.000127117			
+Os03g0793500	oryza sativa	E-MEXP-2267	12 hour vs 1 hour in anaerobic	-1.2	0.00012844			
+Os09g0441900	oryza sativa	E-MEXP-2267	12 hour vs 1 hour in anaerobic	1.2	0.000130912			
+Os05g0207500	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	-1.2	0.000176099			
+Os03g0112700	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	1.2	0.000213623			
+Os03g0793500	oryza sativa	E-MEXP-1766	"'24 hour, germination' vs '0 hour, dry seed'"	-1.2	0.000360046			
+Os01g0859300	oryza sativa	E-MEXP-2267	anerobic to anaerobic switch; 30 hour vs anerobic to anaerobic switch; 27 hour	-1.2	0.000394288			
+Os01g0848400	oryza sativa	E-GEOD-37940	6 hour;cold stress vs 0 hour;control in K354	1.2	0.00039761			
+Os04g0615000	oryza sativa	E-MTAB-1624	normal watering at 5 hours vs. 1 hour	-1.2	0.000451362			
+Os01g0307500	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	-1.2	0.000463955			
+Os01g0859300	oryza sativa	E-MTAB-5524	4-chloro-6-methyl-2-phenylpyrimidine; 100 micromolar vs vehicle at 4 hour	1.2	0.000496024			
+Os05g0187500	oryza sativa	E-GEOD-39432	14 days after flowering vs 7 days after flowering in endosperm	1.2	0.000501633			
+Os04g0615000	oryza sativa	E-GEOD-54243	7 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	-1.2	0.000591169			
+Os01g0648000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; mock	1.2	0.000624352			
+Os09g0441900	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in C418	1.2	0.000658068			
+Os05g0187500	oryza sativa	E-GEOD-21396	14 days after flowering vs 7 days after flowering in endosperm	1.2	0.000765677			
+Os01g0911700	oryza sativa	E-MEXP-1766	"'12 hour, germination' vs '0 hour, dry seed'"	-1.2	0.00080087			
+Os09g0441900	oryza sativa	E-MTAB-5524	fenclorim; 100 micromolar vs vehicle at 4 hour	-1.2	0.001236123			
+Os02g0724000	oryza sativa	E-GEOD-33441	5 days after pollination stage; cyn mutant vs 5 days after pollination stage; wild type	1.2	0.001444528			
+Os01g0648000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; none	1.2	0.001613241			
+Os01g0718300	oryza sativa	E-GEOD-54243	7 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	-1.2	0.001727414			
+Os03g0112700	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 2 hour vs control; tolerant to chilling	1.2	0.001789083			
+Os01g0197100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; none	1.2	0.001924022			
+Os01g0848400	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 504 hour	-1.2	0.001968818			
+Os01g0883800	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 8 hour vs control; tolerant to chilling	-1.2	0.002216126			
+Os05g0187500	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 8 hour vs control; sensitive to chilling	1.2	0.0023922			
+Os04g0469800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME5 vs IR24; none	-1.2	0.002467403			
+Os02g0724000	oryza sativa	E-GEOD-29967	Taichung Native 1; sensitive variety to brown planthopper; 24 hour vs Taichung Native 1; sensitive variety to brown planthopper; 0 hour	1.2	0.002934236			
+Os02g0120100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; none	1.2	0.00299215			
+Os02g0787300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7331 vs mock	1.2	0.003037378			
+Os01g0197100	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in moderately resistant to bacterial panicle blight disease at seedling stage	-1.2	0.003095804			
+Os03g0112700	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	1.2	0.003097375			
+Os09g0441900	oryza sativa	E-MEXP-2311	wild type; internode vs wild type; internode pith parenchyma	-1.2	0.003169143			
+Os02g0703600	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99A vs Nipponbare; mock	1.2	0.00319345			
+Os05g0207500	oryza sativa	E-MTAB-5941	cold temperature regimen; 10 hour vs none; 0 hour in Volano	-1.2	0.003267838			
+Os01g0718300	oryza sativa	E-MTAB-5524	fenclorim; 100 micromolar vs vehicle at 4 hour	-1.2	0.003450383			
+Os02g0787300	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; none	-1.2	0.004047552			
+Os01g0718300	oryza sativa	E-GEOD-41097	dao mutant vs wild type	1.2	0.005289365			
+Os04g0401000	oryza sativa	E-GEOD-54243	7 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	-1.2	0.00556569			
+Os01g0859300	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	1.2	0.007229848			
+Os01g0859300	oryza sativa	E-GEOD-33441	5 days after pollination stage; cyn mutant vs 5 days after pollination stage; wild type	-1.2	0.007422658			
+Os05g0187500	oryza sativa	E-GEOD-21397	55 days after transplanting vs 13 days after transplanting	-1.2	0.007462529			
+Os08g0509600	oryza sativa	E-MTAB-5524	fenclorim; 100 micromolar vs vehicle at 4 hour	1.2	0.007809938			
+Os02g0787300	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	-1.2	0.010346234			
+Os02g0703600	oryza sativa	E-GEOD-29967	Taichung Native 1; sensitive variety to brown planthopper; 8 hour vs Taichung Native 1; sensitive variety to brown planthopper; 0 hour	-1.2	0.012290242			
+Os01g0883800	oryza sativa	E-GEOD-109341	sodium chloride; 100 millimolar vs none in Baldo; root	-1.2	0.014111226			
+Os01g0883800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; mock	1.2	0.015411326			
+Os04g0401000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO86 vs Nipponbare; mock	1.2	0.017231583			
+Os05g0158500	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 2 hour vs control; sensitive to chilling	-1.2	0.018020869			
+Os02g0703600	oryza sativa	E-MTAB-1624	300 millimolar sodium chloride at 24 hours vs. 1 hour	1.2	0.018532757			
+Os02g0703600	oryza sativa	E-MTAB-1625	300 millimolar sodium chloride at 24 hours vs. 1 hour	1.2	0.028838631			
+Os05g0207500	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 2 hour vs control; tolerant to chilling	-1.2	0.029177521			
+Os09g0441900	oryza sativa	E-MTAB-6740	seed germination stage vs seed dormant stage in  30 degree celsius; 8 hour	1.2	0.035649192			
+Os04g0401000	oryza sativa	E-GEOD-54243	15 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	-1.2	0.039069591			
+Os05g0158500	oryza sativa	E-MTAB-4050	N-acetylchitoheptaose vs mock in wild type	-1.2	0.041084968			
+Os02g0703600	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 3 hour; plant embryo coleoptile	-1.1	1.35E-18			
+Os04g0615000	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	-1.1	4.74E-18			
+Os02g0724000	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	-1.1	9.40E-18			
+Os04g0401000	oryza sativa	E-GEOD-116423	ZnF5 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	1.1	4.41E-17			
+Os04g0615000	oryza sativa	E-MTAB-1625	300 millimolar sodium chloride at 5 hours vs. 1 hour	-1.1	2.76E-10			
+Os03g0700400	oryza sativa	E-GEOD-116423	ZnF7 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	-1.1	5.52E-09			
+Os04g0401000	oryza sativa	E-GEOD-47812	aromatic RILs vs aromatic parent	-1.1	3.21E-08			
+Os03g0103300	oryza sativa	E-MTAB-5759	OsMPH1 knockdown vs wild type genotype	-1.1	3.49E-08			
+Os03g0103300	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 168 hour	-1.1	3.15E-06			
+Os01g0718300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7331 vs mock	1.1	6.60E-06			
+Os05g0158500	oryza sativa	E-MTAB-5025	Laodelphax striatella vs none	-1.1	6.68E-06			
+Os03g0103300	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 510 hour	-1.1	3.98E-05			
+Os03g0103300	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; shoot at 510 hour	1.1	4.00E-05			
+Os01g0648000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99AME1 vs Nipponbare; mock	1.1	4.16E-05			
+Os05g0207500	oryza sativa	E-MTAB-4994	drought environment vs normal watering	-1.1	5.19E-05			
+Os02g0724000	oryza sativa	E-MTAB-5118	60:1 carbon:nitrogen ratio vs 1:1 carbon:nitrogen ratio	1.1	5.24E-05			
+Os01g0197100	oryza sativa	E-MEXP-2267	12 hour vs 1 hour in anaerobic	1.1	6.53E-05			
+Os03g0103300	oryza sativa	E-GEOD-93081	Rcc3-OsERF48 vs wild type genotype	1.1	6.83E-05			
+Os05g0207500	oryza sativa	E-GEOD-8380	OsWRKY13 overexpression line D11UM7-2 vs wild type genotype	1.1	8.84E-05			
+Os01g0648000	oryza sativa	E-GEOD-37940	12 hour;cold stress vs 0 hour;control in K354	-1.1	9.00E-05			
+Os02g0787300	oryza sativa	E-CURD-37	Pyricularia oryzae vs none in nitrogen fertiliser at 2 day	1.1	0.000122613			
+Os05g0207500	oryza sativa	E-GEOD-8380	OsWRKY13 overexpression line D11UM1-1 vs wild type genotype	1.1	0.000129101			
+Os02g0703600	oryza sativa	E-GEOD-69010	"'phr1, phr2, phr3 triple mutant' vs 'wild type'"	1.1	0.000134976			
+Os01g0307500	oryza sativa	E-MTAB-5118	60:1 carbon:nitrogen ratio vs 1:1 carbon:nitrogen ratio	-1.1	0.000143483			
+Os02g0787300	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 3 hour	1.1	0.000323123			
+Os09g0441900	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in C418	1.1	0.000355205			
+Os03g0112700	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; mock	1.1	0.000372773			
+Os02g0787300	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 3 hour	1.1	0.000382116			
+Os01g0648000	oryza sativa	E-GEOD-37940	2 hour;cold stress vs 0 hour;control in K354	-1.1	0.000415878			
+Os03g0112700	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME5 vs IR24; mock	1.1	0.000467946			
+Os01g0648000	oryza sativa	E-MEXP-2267	3 hour vs 1 hour in anaerobic	1.1	0.000513185			
+Os09g0441900	oryza sativa	E-MTAB-5941	cold temperature regimen; 2 hour vs none; 0 hour in Volano	1.1	0.000562389			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae BLS303 vs IR24; mock	1.1	0.000640744			
+Os02g0120100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME2 vs IR24; mock	1.1	0.000779443			
+Os02g0703600	oryza sativa	E-GEOD-115371	72 hour anaerobic environment; 24 hour aerobic environment vs none in 96 hour; coleoptile	-1.1	0.000782964			
+Os04g0401000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae BLS303 vs Nipponbare; mock	1.1	0.000833959			
+Os04g0469800	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 30 degree celsius	1.1	0.000939593			
+Os01g0718300	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 8 hour vs control; tolerant to chilling	1.1	0.001115309			
+Os01g0648000	oryza sativa	E-GEOD-69010	"'phr1, phr2, phr3 triple mutant' vs 'wild type'"	1.1	0.001226482			
+Os05g0158500	oryza sativa	E-GEOD-31834	upper shoot base; 6 hour; after gravistimulation vs shoot base; control	-1.1	0.001447408			
+Os01g0197100	oryza sativa	E-GEOD-33441	5 days after pollination stage; cyn mutant vs 5 days after pollination stage; wild type	1.1	0.001464155			
+Os02g0724000	oryza sativa	E-GEOD-31834	lower shoot base; 6 hour; after gravistimulation vs shoot base; control	-1.1	0.001667275			
+Os02g0724000	oryza sativa	E-MTAB-1624	300 millimolar sodium chloride at 24 hours vs. 5 hours	1.1	0.001686447			
+Os04g0401000	oryza sativa	E-CURD-37	Pyricularia oryzae vs none in none at 2 day	-1.1	0.001694944			
+Os03g0112700	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; mock	1.1	0.002286267			
+Os02g0703600	oryza sativa	E-GEOD-31834	lower shoot base; 6 hour; after gravistimulation vs shoot base; control	1.1	0.002401835			
+Os01g0648000	oryza sativa	E-MEXP-1766	"'3 hour, germination' vs '0 hour, dry seed'"	1.1	0.00265944			
+Os01g0648000	oryza sativa	E-GEOD-33441	5 days after pollination stage; cyn mutant vs 5 days after pollination stage; wild type	1.1	0.002751439			
+Os05g0158500	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 6 hour	1.1	0.002838301			
+Os01g0197100	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 10 degree celsius	1.1	0.003191455			
+Os02g0120100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae BLS303 vs IR24; none	1.1	0.003786306			
+Os02g0703600	oryza sativa	E-MTAB-5118	60:60 carbon:nitrogen ratio vs 1:1 carbon:nitrogen ratio	1.1	0.004187127			
+Os01g0883800	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99AME7 vs Nipponbare; mock	-1.1	0.004355819			
+Os01g0197100	oryza sativa	E-MTAB-6740	seed germination stage vs seed dormant stage in  30 degree celsius; 8 hour	1.1	0.004446135			
+Os01g0859300	oryza sativa	E-GEOD-116423	ZnF7 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	-1.1	0.005645332			
+Os05g0158500	oryza sativa	E-GEOD-58603	abscisic acid; wild type genotype; sodium chloride 140 millimolar; root vs none; wild type genotype; sodium chloride 140 millimolar; root	-1.1	0.005847772			
+Os04g0401000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99A-2 vs Nipponbare; mock	1.1	0.006497989			
+Os05g0158500	oryza sativa	E-GEOD-9498	gif1 mutant vs wild type	1.1	0.006545912			
+Os02g0724000	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	1.1	0.006904063			
+Os02g0120100	oryza sativa	E-GEOD-54243	3 day; 30 degree celsius vs 0 day; 20 degree celsius in Hwi1	1.1	0.007392843			
+Os01g0718300	oryza sativa	E-GEOD-38023	recovery from cold stress; tolerant to chilling; 24 hour vs control; tolerant to chilling	-1.1	0.007469591			
+Os05g0187500	oryza sativa	E-GEOD-21397	62 days after transplanting vs 13 days after transplanting	-1.1	0.007510666			
+Os03g0122600	oryza sativa	E-GEOD-115371	anaerobic environment vs none in 48 hour; coleoptile	-1.1	0.0075332			
+Os01g0307500	oryza sativa	E-CURD-37	Pyricularia oryzae vs none in none at 2 day	-1.1	0.007818294			
+Os03g0112700	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 10 degree celsius	1.1	0.008215849			
+Os04g0401000	oryza sativa	E-GEOD-58603	none; wild type genotype; sodium chloride 140 millimolar; root vs none; wild type genotype; normal watering; root	-1.1	0.009496712			
+Os03g0112700	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 2 hour vs control; sensitive to chilling	1.1	0.010447485			
+Os03g0762000	oryza sativa	E-MTAB-5524	fenclorim; 100 micromolar vs vehicle at 4 hour	1.1	0.010524848			
+Os02g0703600	oryza sativa	E-GEOD-44250	potassium deficient medium for 5 days vs potassium sufficient medium for 5 days	-1.1	0.010976708			
+Os05g0187500	oryza sativa	E-GEOD-21397	48 days after transplanting vs 13 days after transplanting	-1.1	0.012048942			
+Os02g0120100	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7341 vs mock	1.1	0.01356952			
+Os02g0724000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99AME5 vs Nipponbare; mock	-1.1	0.016105577			
+Os09g0441900	oryza sativa	E-MTAB-6740	30 degree celsius vs 10 degree celsius in seed dormant stage; 192 hour	1.1	0.016221593			
+Os05g0158500	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae BLS303 vs Nipponbare; mock	-1.1	0.016402621			
+Os02g0703600	oryza sativa	E-MTAB-5118	60:60 carbon:nitrogen ratio vs 1:60 carbon:nitrogen ratio	1.1	0.016771517			
+Os02g0703600	oryza sativa	E-GEOD-39298	Epi-df vs wild type	-1.1	0.018744959			
+Os01g0848400	oryza sativa	E-GEOD-115371	72 hour anaerobic environment; 24 hour aerobic environment vs none in 96 hour; coleoptile	-1.1	0.021882294			
+Os01g0859300	oryza sativa	E-GEOD-46867	gi knockout vs wild type in root	-1.1	0.023956866			
+Os01g0648000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; mock	1.1	0.024880851			
+Os01g0307500	oryza sativa	E-GEOD-29967	Taichung Native 1; sensitive variety to brown planthopper; 8 hour vs Taichung Native 1; sensitive variety to brown planthopper; 0 hour	-1.1	0.025296165			
+Os04g0469800	oryza sativa	E-GEOD-31834	lower shoot base; 6 hour; after gravistimulation vs shoot base; control	-1.1	0.027305467			
+Os01g0648000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; none	1.1	0.029359641			
+Os01g0883800	oryza sativa	E-MTAB-5025	microinjection with insect-derived Rice stripe virus vs microinjection with extracts of nonviruliferous planthoppers	1.1	0.037175582			
+Os02g0703600	oryza sativa	E-GEOD-109341	sodium chloride; 100 millimolar vs none in Vialone Nano; leaf	-1.1	0.037594553			
+Os05g0187500	oryza sativa	E-GEOD-29967	Rathu Heenati; resistant variety to brown planthopper; 8 hour vs Rathu Heenati; resistant variety to brown planthopper; 0 hour	-1.1	0.038616095			
+Os03g0793500	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	1	1.84E-16			
+Os01g0859300	oryza sativa	E-MTAB-6740	30 degree celsius vs 10 degree celsius in seed dormant stage; 192 hour	-1	2.12E-15			
+Os04g0401000	oryza sativa	E-GEOD-116423	PROG1 deletion mutant vs wild type genotype in PROG1 cohort	-1	2.89E-13			
+Os02g0120100	oryza sativa	E-GEOD-115371	72 hour anaerobic environment; 24 hour aerobic environment vs none in 96 hour; coleoptile	-1	8.42E-13			
+Os03g0793500	oryza sativa	E-MTAB-5025	Laodelphax striatella vs none	1	1.39E-12			
+Os04g0401000	oryza sativa	E-GEOD-116423	ZnF7 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	1	3.93E-09			
+Os05g0158500	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; shoot at 510 hour	1	6.26E-09			
+Os05g0158500	oryza sativa	E-CURD-37	nitrogen fertiliser vs none in Pyricularia oryzae at 2 day	1	1.14E-08			
+Os03g0103300	oryza sativa	E-MTAB-4406	moderately resistant to bacterial panicle blight disease vs susceptible to bacterial panicle blight disease in control at flowering stage	-1	2.12E-08			
+Os03g0103300	oryza sativa	E-MTAB-6740	30 degree celsius vs 10 degree celsius in seed dormant stage; 192 hour	-1	3.54E-08			
+Os04g0401000	oryza sativa	E-MTAB-5759	OsMPH1 knockdown vs wild type genotype	1	4.39E-06			
+Os01g0718300	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7342 vs mock	1	6.61E-06			
+Os01g0718300	oryza sativa	E-MEXP-1766	"12 hour, germination vs 0 hour, dry seed"	1	7.82E-06			
+Os01g0859300	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 6 hour	1	1.30E-05			
+Os05g0207500	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 6 hour	-1	1.61E-05			
+Os03g0112700	oryza sativa	E-MTAB-4306	cadmium sulfate; 50 micromolar vs none in root at 24 hour	1	1.64E-05			
+Os01g0718300	oryza sativa	E-MTAB-3230	PEG Stress vs normal in Mutant	-1	1.70E-05			
+Os09g0441900	oryza sativa	E-GEOD-116423	ZnF7 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	1	1.76E-05			
+Os05g0158500	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 3 hour	-1	3.92E-05			
+Os02g0724000	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain BLS256 vs mock	1	4.83E-05			
+Os02g0724000	oryza sativa	E-MTAB-5118	60:60 carbon:nitrogen ratio vs 1:1 carbon:nitrogen ratio	1	5.17E-05			
+Os03g0103300	oryza sativa	E-MTAB-5025	microinjection with insect-derived Rice stripe virus vs microinjection with extracts of nonviruliferous planthoppers	1	6.00E-05			
+Os01g0848400	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 6 hour	-1	6.31E-05			
+Os01g0718300	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	-1	8.28E-05			
+Os01g0648000	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in C418	-1	0.00010634			
+Os02g0724000	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain CFBP7342 vs mock	1	0.000140688			
+Os08g0509600	oryza sativa	E-GEOD-41647	drought environment vs control in susceptible to drought environment at 3 hour	1	0.000142777			
+Os02g0787300	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99AME1 vs Nipponbare; mock	-1	0.000145922			
+Os01g0197100	oryza sativa	E-GEOD-116423	ZnF5 deletion mutant vs wild type genotype in ZnF5 and Znf7 cohort	-1	0.000148822			
+Os08g0509600	oryza sativa	E-MEXP-2267	27 hour vs 1 hour in anaerobic	1	0.00016146			
+Os02g0120100	oryza sativa	E-MEXP-2267	12 hour vs 1 hour in anaerobic	1	0.000164779			
+Os01g0648000	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99A-2 vs Nipponbare; mock	1	0.00018162			
+Os03g0103300	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; shoot at 505 hour	1	0.000199016			
+Os03g0793500	oryza sativa	E-MEXP-2267	30 hour vs 1 hour in anaerobic	-1	0.000242888			
+Os02g0120100	oryza sativa	E-MTAB-1625	300 millimolar sodium chloride at 24 hours vs. 5 hours	1	0.000262136			
+Os01g0648000	oryza sativa	E-GEOD-37940	6 hour;cold stress vs 0 hour;control in C418	-1	0.000298			
+Os01g0718300	oryza sativa	E-GEOD-36272	Nipponbare; Xanthomonas oryzae PXO99A-2 vs Nipponbare; mock	1	0.000303449			
+Os08g0509600	oryza sativa	E-GEOD-37940	48 hour;cold stress vs 0 hour;control in C418	1	0.000345107			
+Os01g0307500	oryza sativa	E-MTAB-5118	60:60 carbon:nitrogen ratio vs 1:1 carbon:nitrogen ratio	-1	0.000416378			
+Os03g0122600	oryza sativa	E-GEOD-37940	12 hour;cold stress vs 0 hour;control in K354	1	0.000485839			
+Os01g0307500	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	-1	0.000497111			
+Os03g0793500	oryza sativa	E-MEXP-1766	"3 hour, germination vs 0 hour, dry seed"	-1	0.000501916			
+Os01g0718300	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; none	1	0.000549679			
+Os02g0120100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; mock	1	0.00065381			
+Os01g0197100	oryza sativa	E-GEOD-37940	2 hour;cold stress vs 0 hour;control in K354	1	0.000741774			
+Os02g0724000	oryza sativa	E-GEOD-31834	upper shoot base; 6 hour; after gravistimulation vs shoot base; control	-1	0.000898285			
+Os01g0648000	oryza sativa	E-MEXP-1766	"24 hour, germination vs 0 hour, dry seed"	1	0.00097553			
+Os05g0158500	oryza sativa	E-GEOD-67588	Xanthomonas oryzae pv. oryzicola strain L8 vs mock	-1	0.001130442			
+Os01g0648000	oryza sativa	E-GEOD-46867	pho2 knockout vs wild type in shoot	-1	0.001220072			
+Os01g0922800	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	-1	0.001325937			
+Os02g0724000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae BLS303 vs IR24; none	1	0.001432737			
+Os04g0615000	oryza sativa	E-MTAB-1624	300 millimolar sodium chloride at 5 hours vs. 1 hour	-1	0.001438569			
+Os03g0122600	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-1	0.001599067			
+Os01g0307500	oryza sativa	E-GEOD-37940	24 hour;cold stress vs 0 hour;control in K354	-1	0.001880789			
+Os05g0158500	oryza sativa	E-MTAB-1624	normal watering at 24 hours vs. 5 hours	-1	0.00192585			
+Os05g0158500	oryza sativa	E-GEOD-46867	pho2 knockout vs wild type in shoot	-1	0.00252941			
+Os01g0197100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A-2 vs IR24; mock	1	0.002531535			
+Os04g0401000	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; mock	-1	0.002693795			
+Os03g0122600	oryza sativa	E-MTAB-5524	4-chloro-6-methyl-2-phenylpyrimidine; 100 micromolar vs vehicle at 24 hour	-1	0.002809294			
+Os03g0103300	oryza sativa	E-GEOD-109341	sodium chloride; 100 millimolar vs none in Vialone Nano; leaf	-1	0.003146616			
+Os01g0883800	oryza sativa	E-GEOD-45724	alkali; Jijing88 vs control; Jijing88	1	0.00333657			
+Os04g0469800	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; none	-1	0.003616107			
+Os02g0724000	oryza sativa	E-GEOD-25206	lead; 100 micromolar vs water	1	0.0036938			
+Os01g0718300	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; none	1	0.00480309			
+Os01g0197100	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 6 hour	-1	0.004906273			
+Os02g0120100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99A vs IR24; none	1	0.006015073			
+Os01g0883800	oryza sativa	E-MTAB-5170	elf18 vs none in EFR:XA21:GFP at 3 hour	-1	0.006066503			
+Os05g0158500	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-1	0.006334373			
+Os01g0648000	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	-1	0.006366741			
+Os01g0883800	oryza sativa	E-GEOD-44250	potassium deficient medium with 6 hour resupply vs potassium deficient medium with no resupply	1	0.006567707			
+Os03g0762000	oryza sativa	E-MTAB-5524	fenclorim; 100 micromolar vs 4-chloro-6-methyl-2-phenylpyrimidine; 100 micromolar at 4 hour	1	0.006741792			
+Os03g0103300	oryza sativa	E-GEOD-109341	sodium chloride; 100 millimolar vs none in Vialone Nano; root	1	0.007210554			
+Os09g0441900	oryza sativa	E-GEOD-41647	drought environment vs control in tolerant to drought environment at 6 hour	-1	0.007838684			
+Os02g0703600	oryza sativa	E-CURD-48	sodium dihydrogenphosphate; 0.323 millimolar vs none in treated directly; root at 510 hour	1	0.008599811			
+Os01g0197100	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO86 vs IR24; none	1	0.009147452			
+Os02g0724000	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 8 hour vs control; sensitive to chilling	1	0.009508371			
+Os03g0112700	oryza sativa	E-GEOD-38023	cold stress; sensitive to chilling; 48 hour vs control; sensitive to chilling	1	0.011033229			
+Os02g0724000	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 8 hour vs control; tolerant to chilling	1	0.011109204			
+Os02g0120100	oryza sativa	E-CURD-28	EXPA30::GFP vs wild type genotype	1	0.011135494			
+Os04g0401000	oryza sativa	E-GEOD-54243	3 day; 30 degree celsius vs 0 day; 20 degree celsius in hwi1	-1	0.011163202			
+Os02g0120100	oryza sativa	E-GEOD-25206	chromium(6+); 100 micromolar vs water	-1	0.015352846			
+Os02g0787300	oryza sativa	E-GEOD-42028	MADS29 OX overexpression vs wild type	1	0.016071531			
+Os08g0509600	oryza sativa	E-MTAB-6740	192 hour vs 8 hour in seed dormant stage; 10 degree celsius	1	0.0160869			
+Os05g0158500	oryza sativa	E-MTAB-1624	300 millimolar sodium chloride at 5 hours vs. 1 hour	1	0.016533016			
+Os02g0787300	oryza sativa	E-GEOD-36272	IR24; Xanthomonas oryzae PXO99AME1 vs IR24; mock	-1	0.018898328			
+Os05g0187500	oryza sativa	E-GEOD-21397	41 days after transplanting vs 13 days after transplanting	-1	0.01917771			
+Os01g0197100	oryza sativa	E-MTAB-4406	moderately resistant to bacterial panicle blight disease vs susceptible to bacterial panicle blight disease in control at flowering stage	1	0.019357658			
+Os08g0509600	oryza sativa	E-GEOD-38023	cold stress; tolerant to chilling; 2 hour vs control; tolerant to chilling	-1	0.020471896			
+Os02g0703600	oryza sativa	E-GEOD-29967	Rathu Heenati; resistant variety to brown planthopper; 24 hour vs Rathu Heenati; resistant variety to brown planthopper; 0 hour	-1	0.022104736			
+Os08g0509600	oryza sativa	E-MEXP-2311	mutant; internode pith parenchyma vs wild type; internode pith parenchyma	-1	0.024162136			
+Os02g0703600	oryza sativa	E-GEOD-46867	pho2 knockout vs wild type in shoot	1	0.024170394			
+Os03g0700400	oryza sativa	E-MTAB-1625	300 millimolar sodium chloride at 24 hours vs. 5 hours	1	0.028134627			
+Os02g0703600	oryza sativa	E-GEOD-38023	recovery from cold stress; sensitive to chilling; 24 hour vs control; sensitive to chilling	1	0.033440755			
+Os02g0724000	oryza sativa	E-GEOD-22538	gall midge biotype 1 (GMB1) vs control	-1	0.034069035			
+Os05g0158500	oryza sativa	E-GEOD-20522	lem mutant vs wild type	1	0.035632133			
+Os01g0859300	oryza sativa	E-GEOD-116423	PROG1 deletion mutant vs wild type genotype in PROG1 cohort	1	0.035756309			
+Os02g0703600	oryza sativa	E-MTAB-1624	300 millimolar sodium chloride at 24 hours vs. 5 hours	1	0.036462611			
+Os01g0307500	oryza sativa	E-MTAB-4406	Burkholderia glumae vs control in susceptible to bacterial panicle blight disease at seedling stage	-1	0.04260428			
+Os03g0103300	oryza sativa	E-GEOD-109341	sodium chloride; 100 millimolar vs none in Baldo; leaf	-1	0.043499852	NA	NA	NA
