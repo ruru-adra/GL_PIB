@@ -1,0 +1,202 @@
+Controlling Traits,MSU_ID,RAPDB_ID,R498_ID,GeneName,geneSymbol,Gene descriptions,References
+Abiotic stress,LOC_Os03g01320,Os03g0103300,OsR498G0305077300.01,NA,qLTG3-1,"LTPL116 - Protease inhibitor%2Fseed storage%2FLTP family protein precursor, expressed","Fujino et al., 2008"
+Abiotic stress,LOC_Os03g01320,Os03g0103300,OsR498G0305077600.01,NA,qLTG3-1,"LTPL116 - Protease inhibitor%2Fseed storage%2FLTP family protein precursor, expressed","Fujino et al., 2008"
+Disease resistance,LOC_Os04g32850,Os04g0401000,OsR498G0408477200.01,NA,Pi21,"basic proline-rich protein, putative, expressed","Fukuoka et al., 2009"
+Yield,LOC_Os09g26999,Os09g0441900,OsR498G0917547300.01,NA,DEP1,"keratin-associated protein 5-4, putative, expressed","Huang et al., 2009c"
+Yield,LOC_Os06g41850,Os06g0623700,OsR498G0612972900.01,NA,TGW6,"SMP-30%2FGluconolaconase%2FLRE-like region containing protein, expressed","Ishimaru et al., 2013"
+Yield,LOC_Os08g39890,Os08g0509600,OsR498G0816442600.01,NA,IPA1,"OsSPL14 - SBP-box gene family member, expressed","Jiao et al., 2010; Zhang et al., 2017a"
+Yield/grain size,LOC_Os05g06660,Os05g0158500,OsR498G0509781400.01,NA,GS5,"OsSCP26 - Putative Serine Carboxypeptidase homologue, expressed","Li et al., 2011b"
+NUE,LOC_Os01g45990,Os01g0648000,OsR498G0101651000.01,NA,OsAKT1,"potassium channel AKT1, putative, expressed","Li et al., 2014b"
+Yield,LOC_Os01g66100,Os01g0883800,OsR498G0102466500.01,NA,SD1,"gibberellin 20 oxidase 2, putative, expressed","Lo et al., 2008"
+Yield,LOC_Os06g45460,Os06g0665400,OsR498G0613125600.01,NA,SCM2/APO1,"OsFBX202 - F-box domain containing protein, expressed","Ookawa et al., 2010"
+NA,LOC_Os01g10040,Os01g0197100,OsR498G0100341300.01,DWARF EBISU,D2,"cytochrome P450, putative, expressed",RAPDB
+NA,LOC_Os01g20160,Os01g0307500,OsR498G0100765000.01,HIGH-AFFINITY K+ TRANSPORTER 8,HKT8,"OsHKT1;5 - Na%2B transporter, expressed",RAPDB
+NA,LOC_Os01g51610,Os01g0713600,OsR498G0101878300.01,LATE-FLOWERING 1,LFL1,"B3 DNA binding domain containing protein, expressed",RAPDB
+NA,LOC_Os01g52050,Os01g0718300,OsR498G0101902000.01,DWARF 61,D61,"systemin receptor SR160 precursor, putative, expressed",RAPDB
+NA,LOC_Os01g62920,Os01g0848400,OsR498G0102332000.01,Shattering (QTL)-1,qSH1,"homeodomain protein, putative, expressed",RAPDB
+NA,LOC_Os01g64000,Os01g0859300,OsR498G0102377300.01,ABA INSENSITIVE 5,ABI5,"bZIP transcription factor, putative, expressed",RAPDB
+NA,LOC_Os01g68370,Os01g0911700,OsR498G0102558000.01,VIVIPAROUS 1,VP1,"B3 DNA binding domain containing protein, expressed",RAPDB
+NA,LOC_Os01g69850,Os01g0922800,OsR498G0102603900.01,MADS BOX GENE 51,MADS51,"OsMADS65 - MADS-box family gene with MIKC%2A type-box, expressed",RAPDB
+NA,LOC_Os02g02780,Os02g0120100,OsR498G0202861000.01,ACT DOMAIN CONTAINING PROTEIN KINASE 1,ACTPK1,"protein kinase family protein, putative, expressed",RAPDB
+NA,LOC_Os02g47470,Os02g0703600,OsR498G0204611500.01,ABA-8'-HYDROXYLASE 1,ABA8OX1,"cytochrome P450, putative, expressed",RAPDB
+NA,LOC_Os02g49230,Os02g0724000,OsR498G0204681300.01,Days to heading on chromosome 2,DTH2,"CCT%2FB-box zinc finger protein, putative, expressed",RAPDB
+NA,LOC_Os02g54600,Os02g0787300,OsR498G0204906600.01,SMALL GRAIN 1,SMG1,"STE_MEK_ste7_MAP2K.5 - STE kinases include homologs to sterile 7, sterile 11 and sterile 20 from yeast, expressed",RAPDB
+NA,LOC_Os03g02160,Os03g0112700,OsR498G0305108900.01,EARLY HEADING DATE 4,EHD4,"zinc finger C-x8-C-x5-C-x3-H type family protein, expressed",RAPDB
+NA,LOC_Os03g49350,Os03g0700400,OsR498G0306873300.01,LIPOXYGENASE 3,LOX3,"lipozygenase protein, putative, expressed",RAPDB
+NA,LOC_Os03g55389,Os03g0762000,OsR498G0307088600.01,HEADING DATE 6,HD6,"casein kinase II subunit alpha-1, putative, expressed",RAPDB
+NA,LOC_Os03g57940,Os03g0793500,OsR498G0307192700.01,HEADING DATE16,HD16,"CK1_CaseinKinase_1a.4 - CK1 includes the casein kinase 1 kinases, expressed",RAPDB
+NA,LOC_Os03g03100,Os03g0122600,OsR498G0362582800.01,MADS BOX GENE 50,MADS50,"OsMADS50 - MADS-box family gene with MIKCc type-box, expressed",RAPDB
+NA,LOC_Os04g39430,Os04g0469800,OsR498G0408738400.01,DWARF SHINKANEAIKOKU OR NOHRIN 28,D11,"cytochrome P450, putative, expressed",RAPDB
+NA,LOC_Os04g52479,Os04g0615000,OsR498G0409276700.01,NARROW LEAF 1,NAL1,"peptidase, trypsin-like serine and cysteine proteases, putative, expressed",RAPDB
+NA,LOC_Os05g09520,Os05g0187500,OsR498G0509898500.01,GRAIN WIDTH 5,GW5,"IQ calmodulin-binding motif family protein, expressed",RAPDB
+NA,LOC_Os05g11730,Os05g0207500,OsR498G0509991200.01,GSK3/SHAGGY-Like Kinase 2,GSK2,"CGMC_GSK.7 - CGMC includes CDA, MAPK, GSK3, and CLKC kinases, expressed",RAPDB
+NA,LOC_Os06g03710,Os06g0127800,OsR498G0611554400.01,DWARF AND LOW-TILLERING,DLT,"DELLA protein SLR1, putative, expressed",RAPDB
+NA,LOC_Os06g05060,Os06g0142600,OsR498G0611607800.01,HEADING DATE 3B,HD3B,"ELF3 protein, putative, expressed",RAPDB
+NA,LOC_Os06g06090,Os06g0154500,OsR498G0611646000.01,MITOGEN-ACTIVATED PROTEIN KINASE 6,MAPK6,"CGMC_MAPKCMGC_2_ERK.12 - CGMC includes CDA, MAPK, GSK3, and CLKC kinases, expressed",RAPDB
+NA,LOC_Os06g06320,Os06g0157700,OsR498G0611656900.01,HEADING DATE 3A,HD3A,"osFTL2  FT-Like2 homologous to Flowering Locus T  gene; contains Pfam profile PF01161%3A Phosphatidylethanolamine-binding protein, expressed",RAPDB
+NA,LOC_Os06g16370,Os06g0275000,OsR498G0612090700.01,HEADING DATE 1,HD1,"CCT%2FB-box zinc finger protein, putative, expressed",RAPDB
+NA,LOC_Os06g44100,Os06g0650300,OsR498G0613071000.01,Grain weight on chromosome 6-a,GW6a,"HLS, putative, expressed",RAPDB
+NA,LOC_Os07g12900,Os07g0232900,OsR498G0713834000.01,HEAVY METAL ATPASE 3,HMA3,"cadmium%2Fzinc-transporting ATPase, putative, expressed",RAPDB
+NA,LOC_Os07g13170,Os07g0235800,OsR498G0713843700.01,SUPERNUMERARY BRACT GENE,SNB,"AP2 domain containing protein, expressed",RAPDB
+NA,LOC_Os07g15370,Os07g0257200,OsR498G0713916200.01,NATURAL RESISTANCE-ASSOCIATED MACROPHAGE PROTEIN 5,NRAMP5,"metal transporter Nramp6, putative, expressed",RAPDB
+NA,LOC_Os07g39220,Os07g0580500,OsR498G0714632200.01,BRASSINAZOLE RESISTANT 1,BZR1,"BES1%2FBZR1 homolog protein, putative, expressed",RAPDB
+NA,LOC_Os07g39700,Os07g0585700,OsR498G0714655100.01,SEED DORMANCY 4,Sdr4,expressed protein,RAPDB
+NA,LOC_Os08g04780,Os08g0143400,OsR498G0815152000.01,Heading date 18,Hd18,"amine oxidase, putative, expressed",RAPDB
+NA,LOC_Os08g42540,Os08g0537800,OsR498G0816541400.01,heterotrimeric G protein beta 1 subunit,RGB1,"ubiquitin thioesterase otubain-like, putative, expressed",RAPDB
+NA,LOC_Os08g44840,Os08g0562500,OsR498G0816619200.01,SLENDER GRAIN,SLG,"transferase family protein, putative, expressed",RAPDB
+NA,LOC_Os09g26840,Os09g0439800,OsR498G0917539200.01,DEEPER ROOTING 1,DRO1,expressed protein,RAPDB
+NA,LOC_Os09g29820,Os09g0474000,OsR498G0969279700.01,BZIP TRANSCRIPTION FACTOR TFX1,TFX1,"bZIP transcription factor domain containing protein, expressed",RAPDB
+NA,LOC_Os10g32600,Os10g0463400,OsR498G1018858200.01,EARLINESS 1,EF1,"MYB family transcription factor, putative, expressed",RAPDB
+NA,LOC_Os10g33780,Os10g0478000,OsR498G1018905000.01,G1 LIKE PROTEIN 5,G1L5,"DUF640 domain containing protein, putative, expressed",RAPDB
+NA,LOC_Os01g25484,Os01g0357100,OsR498G0100930500.01,PROMOTER OF SHOOT REGENERATION 1,PSR1,"ferredoxin--nitrite reductase, putative, expressed",RAPDB
+NA,LOC_Os01g25484,Os01g0357100,OsR498G0100931900.01,PROMOTER OF SHOOT REGENERATION 1,PSR1,"ferredoxin--nitrite reductase, putative, expressed",RAPDB
+NA,LOC_Os01g43250,Os01g0620100,OsR498G0101558200.01,NA,OsWD40-19,"WD domain, G-beta repeat domain containing protein, expressed",RAPDB
+NA,LOC_Os01g52050,Os01g0718300,OsR498G0101902100.01,DWARF 61,D61,"systemin receptor SR160 precursor, putative, expressed",RAPDB
+NA,LOC_Os01g56510,Os01g0771900,OsR498G0102070800.01,NA,RBG2,"periplasmic beta-glucosidase precursor, putative, expressed",RAPDB
+NA,LOC_Os03g03070,Os03g0122600,OsR498G0305144600.01,MADS BOX GENE 50,MADS50,"transcription factor, putative, expressed",RAPDB
+NA,LOC_Os04g39430,Os04g0469800,OsR498G0408738100.01,DWARF SHINKANEAIKOKU OR NOHRIN 28,D11,"cytochrome P450, putative, expressed",RAPDB
+NA,LOC_Os04g47059,Os04g0557500,OsR498G0409061000.01,PURPLE LEAF,PL,"TRANSPARENT TESTA 8, putative, expressed",RAPDB
+NA,LOC_Os06g12210,Os06g0226500,OsR498G0611916500.01,BRASSINOSTEROID UPREGULATED 1,BU1,"helix-loop-helix DNA-binding domain containing protein, expressed",RAPDB
+NA,LOC_Os06g16370,Os06g0275000,OsR498G0612090600.01,HEADING DATE 1,HD1,"CCT%2FB-box zinc finger protein, putative, expressed",RAPDB
+NA,LOC_Os07g11020,Os07g0211500,OsR498G0713747700.01,BROWN PERICARP AND SEED COAT,RC,"rc - bHLH transcription factor regulating proanthocyanidin production in seeds, expressed",RAPDB
+NA,LOC_Os07g12900,Os07g0232900,OsR498G0713834100.01,HEAVY METAL ATPASE 3,HMA3,"cadmium%2Fzinc-transporting ATPase, putative, expressed",RAPDB
+NA,LOC_Os07g47330,Os07g0669500,OsR498G0714927600.01,FRIZZY PANICLE,FZP,"AP2 domain containing protein, expressed",RAPDB
+NA,LOC_Os08g07740,Os08g0174500,OsR498G0815298200.01,Heading date (QTL)-5(t),HD5,"histone-like transcription factor and archaeal histone, putative, expressed",RAPDB
+NA,LOC_Os09g29820,Os09g0474000,OsR498G0917669900.01,BZIP TRANSCRIPTION FACTOR TFX1,TFX1,"bZIP transcription factor domain containing protein, expressed",RAPDB
+NA,LOC_Os10g28360,Os10g0419500,OsR498G1018737000.01,NA,OsARD4,"1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase protein, putative, expressed",RAPDB
+NA,LOC_Os11g08410,Os11g0187200,OsR498G1119538300.01,GATA TRANSCRIPTION FACTOR 28,GATA28,"GATA zinc finger domain containing protein, expressed",RAPDB
+Yield/grain size,LOC_Os02g14720,Os02g0244100,OsR498G0203315700.01,NA,GW2,expressed protein,"Song et al., 2007"
+NUE,LOC_Os09g26999,Os09g0441900,OsR498G0917547300.01,NA,qNGR9,"keratin-associated protein 5-4, putative, expressed","Sun et al., 2014"
+Grain quality,LOC_Os06g04200,Os06g0133000,OsR498G0611577100.01,NA,Waxy,"starch synthase, putative, expressed","Tian et al., 2009"
+Yield/grain size,LOC_Os08g41940,Os08g0531600,OsR498G0816518900.01,NA,OsSPL16,"OsSPL16 - SBP-box gene family member, expressed","Wang et al., 2012"
+Yield,LOC_Os07g15770,Os07g0261200,OsR498G0713935400.01,NA,Ghd7,"CCT motif family protein, expressed","Xue et al., 2008"
+Reproductive development,LOC_Os01g10504,Os01g0201700,OsR498G0100361800.01,NA,OsMADS3,"OsMADS3 - MADS-box family gene with MIKCc type-box, expressed","Hu et al., 2011"
+Disease resistance,LOC_Os01g12900,Os01g0229400,OsR498G0100475200.01,NA,OsRac1,"ras-related protein, putative, expressed","Nakashima et al., 2008"
+Reproductive development,LOC_Os01g15448,Os01g0258600,OsR498G0100585300.01,NA,DPL1,expressed protein,"Mizuta et al., 2010"
+Reproductive development,LOC_Os01g16810,Os01g0274800,OsR498G0100647800.01,NA,CSA,"MYB family transcription factor, putative, expressed","Zhang et al., 2010"
+Disease resistance,LOC_Os01g25820,Os01g0360200,OsR498G0100943000.01,NA,Rac1-RbohB/H,"respiratory burst oxidase, putative, expressed","Nagano et al., 2016"
+Reproductive development,LOC_Os01g39670,Os01g0578500,OsR498G0101395900.01,NA,SaF,"OsFBD1 - F-box and FBD domain containing protein, expressed","Long et al., 2008"
+Reproductive development,LOC_Os01g39680,Os01g0578700,OsR498G0101396500.01,NA,SaM,expressed protein,"Long et al., 2008"
+Disease resistance,LOC_Os01g49290,Os01g0686800,OsR498G0101788300.01,NA,RACK1,"WD repeat-containing protein, putative, expressed","Nakashima et al., 2008"
+NUE,LOC_Os01g50820,Os01g0704100,OsR498G0101845100.01,NA,OsNRT2.3b,"transporter, major facilitator family, putative, expressed","Fan et al., 2016a"
+NUE,LOC_Os01g54550,Os01g0749300,OsR498G0101994300.01,NA,HsfA4a,"HSF-type DNA-binding domain containing protein, expressed","Shim et al., 2009"
+Disease resistance,LOC_Os01g56420,Os01g0770700,OsR498G0102067000.01,NA,COPT1,"ctr copper transporter family protein, putative, expressed","Yuan et al., 2010"
+Disease resistance,LOC_Os01g56420,Os01g0770700,OsR498G0102066700.01,NA,COPT1,"ctr copper transporter family protein, putative, expressed","Yuan et al., 2010"
+Disease resistance,LOC_Os01g56470,Os01g0771200,OsR498G0102068700.01,NA,XB24,"mal d 1-associated protein, putative, expressed","Chen et al., 2010"
+Reproductive development,LOC_Os01g59660,Os01g0812000,OsR498G0102195500.01,NA,OsGAmyb,"MYB family transcription factor, putative, expressed","Aya et al., 2009"
+Yield,LOC_Os01g61480,Os01g0831000,OsR498G0102266700.01,NA,LAX1,"helix-loop-helix DNA-binding domain containing protein, expressed","Oikawa and Kyozuka, 2009"
+Grain quality,LOC_Os01g65670,Os01g0878700,OsR498G0102447200.01,NA,OsAAP6,"amino acid transporter, putative, expressed","Peng et al., 2014"
+NUE,LOC_Os02g03900,Os02g0131800,OsR498G0202904800.01,NA,NRAT1,"metal transporter Nramp6, putative, expressed","Xia et al., 2010"
+NUE,LOC_Os02g10290,Os02g0196600,OsR498G0203152500.01,NA,OsHMA4,"copper-transporting ATPase, putative, expressed","Huang et al., 2016"
+Abiotic stress,LOC_Os02g42780,Os02g0640500,OsR498G0204399600.01,NA,SIT1,"lectin receptor-type protein kinase, putative, expressed","Li et al., 2014a"
+Yield,LOC_Os02g47280,Os02g0701300,OsR498G0204603200.01,NA,GL2/OsGRF4,"growth-regulating factor, putative, expressed","Che et al., 2015; Duan et al., 2015"
+Yield,LOC_Os02g49840,Os02g0731200,OsR498G0204707300.01,NA,OsMADS57,"OsMADS57 - MADS-box family gene with MIKCc type-box, expressed","Guo et al., 2013"
+Disease resistance,LOC_Os02g51180,Os02g0746000,OsR498G0204766600.01,NA,OsCUL3a,"cullin, putative, expressed","Liu et al., 2017b"
+Abiotic stress,LOC_Os02g52250,Os02g0759800,OsR498G0204814200.01,NA,OsSKIPa,"SKIP%2FSNW domain containing protein, expressed","Hou et al., 2009"
+Yield,LOC_Os03g03150,Os03g0123300,OsR498G0305148100.01,NA,TAD1/TE,"WD repeat-containing protein, putative, expressed","Lin et al., 2012; Xu et al., 2012"
+Reproductive development,LOC_Os03g07250,Os03g0168600,OsR498G0305293200.01,NA,CYP704B2,"cytochrome P450, putative, expressed","Li et al., 2010b"
+Yield,LOC_Os03g07920,Os03g0175800,OsR498G0305316300.01,NA,BG1,expressed protein,"Liu et al., 2015a"
+Yield,LOC_Os03g10210,Os03g0198600,OsR498G0305403200.01,NA,HOX12,"homeobox domain containing protein, expressed","Gao et al., 2016"
+Yield,LOC_Os03g10620,Os03g0203200,OsR498G0305418300.01,NA,D14,"hydrolase, alpha%2Fbeta fold family domain containing protein, expressed","Zhao et al., 2015b"
+NUE,LOC_Os03g10940,Os03g0207300,OsR498G0305432000.01,NA,CK2Œ±3,"casein kinase II subunit alpha-2, putative, expressed","Chen et al., 2015"
+Grain quality,LOC_Os03g11100,Os03g0209400,OsR498G0305437700.01,NA,GPA4,"vesicle transport protein GOT1B, putative, expressed","Wang et al., 2016b"
+Abiotic stress,LOC_Os03g11550,Os03g0214200,OsR498G0305451600.01,NA,MODD,"protein of unknown function DUF1675 domain containing protein, expressed","Tang et al., 2016"
+Disease resistance,LOC_Os03g11614,Os03g0215400,OsR498G0305455800.01,NA,LHS1,"OsMADS1 - MADS-box family gene with MIKCc type-box, expressed","Yi et al., 2009"
+Abiotic stress,LOC_Os03g26970,Os03g0387100,OsR498G0306069500.01,NA,OsTT1,"peptidase, T1 family, putative, expressed","Li et al., 2015"
+Yield/grain size,LOC_Os03g44500,Os03g0646900,OsR498G0306665600.01,NA,GL3.1,"serine%2Fthreonine protein phosphatase, putative, expressed","Qi et al., 2012"
+Abiotic stress,LOC_Os03g49990,Os03g0707600,OsR498G0306900900.01,NA,SLR1,"GRAS family transcription factor domain containing protein, expressed","Fukao and Bailey-Serres, 2008"
+Abiotic stress,LOC_Os03g49990,Os03g0707600,OsR498G0306901200.01,NA,SLR1,"GRAS family transcription factor domain containing protein, expressed","Fukao and Bailey-Serres, 2008"
+Grain quality,LOC_Os03g55090,Os03g0758100,OsR498G0307078200.01,NA,OsPho1,"alpha-glucan phosphorylast isozyme, putative, expressed","Satoh et al., 2008"
+Yield/abiotic stress,LOC_Os03g57240,Os03g0786400,OsR498G0307171400.01,NA,DST,"ZOS3-19 - C2H2 zinc finger protein, expressed","Li et al., 2013b; Huang et al., 2009b"
+Yield,LOC_Os03g60110,Os03g0815700,OsR498G0307268300.01,NA,SPIN1,"KH domain containing protein, putative, expressed","Vega-Sa´ nchez et al., 2008"
+NUE,LOC_Os03g61200,Os03g0827500,OsR498G0307307900.01,NA,SPX4,expressed protein,"Lv et al., 2014"
+Abiotic stress,LOC_Os04g04330,Os04g0132500,OsR498G0407514500.01,NA,CTB4a,"receptor-like protein kinase 2 precursor, putative, expressed","Zhang et al., 2017c"
+Yield,LOC_Os04g08740,Os04g0169100,OsR498G0407621300.01,NA,ETR2,"ethylene receptor, putative, expressed","Wuriyanghan et al., 2009"
+Yield,LOC_Os04g28280,Os04g0350700,OsR498G0408230800.01,NA,An-1,"BEE 3, putative, expressed","Luo et al., 2013b"
+Yield,LOC_Os04g33740,Os04g0413500,OsR498G0408530100.01,NA,GIF1,"glycosyl hydrolases, putative, expressed","Wang et al., 2008a"
+Yield,LOC_Os04g51000,Os04g0598300,OsR498G0409213000.01,NA,RFL,"transcription factor FL, putative, expressed","Rao et al., 2008"
+Abiotic stress,LOC_Os04g51180,Os04g0600800,OsR498G0409221600.01,NA,COLD1,"GPR89A, putative, expressed","Ma et al., 2015b"
+Grain quality,LOC_Os04g55230,Os04g0645100,OsR498G0409370100.01,NA,FLO2,"tetratricopeptide repeat domain containing protein, putative, expressed","She et al., 2010"
+Yield,LOC_Os04g55510,Os04g0648800,OsR498G0409381900.01,NA,HAF1,"zinc finger, C3HC4 type domain containing protein, expressed","Yang et al., 2015b"
+NUE,LOC_Os05g02750,Os05g0119000,OsR498G0509614300.01,NA,STAR2,"ABC transporter, membrane-spanning%2Fpermease subunit, putative, expressed","Huang et al., 2009a"
+Reproductive development,LOC_Os05g05280,Os05g0145000,OsR498G0509725000.01,NA,PTB1,"zinc finger family protein, putative, expressed","Li et al., 2013a"
+Grain quality,LOC_Os05g06480,Os05g0156900,OsR498G0509774400.01,NA,Chalk5,"inorganic H%2B pyrophosphatase, putative, expressed","Li et al., 2014c"
+Disease resistance,LOC_Os05g35050,Os05g0424700,OsR498G0510875900.01,NA,COPT5,"ctr copper transporter family protein, putative, expressed","Yuan et al., 2010"
+Reproductive development,LOC_Os05g50270,Os05g0578900,OsR498G0511398700.01,NA,NL1,"GATA zinc finger domain containing protein, expressed","Wang et al., 2009"
+Disease resistance,LOC_Os06g03580,Os06g0125800,OsR498G0611549100.01,NA,OsBBI1,"zinc RING finger protein, putative, expressed","Li et al., 2011a"
+NUE,LOC_Os06g05160,Os06g0143700,OsR498G0611611000.01,NA,SPDT,"sulfate transporter, putative, expressed","Yamaji et al., 2016"
+Abiotic stress,LOC_Os06g10230,Os06g0203800,OsR498G0611808400.01,NA,ERECTA,"receptor-like protein kinase 5 precursor, putative, expressed","Shen et al., 2015"
+Reproductive development,LOC_Os06g10990,Os06g0212900,OsR498G0611846200.01,NA,S5-ORF3,"DnaK family protein, putative, expressed","Yang et al., 2012"
+Reproductive development,LOC_Os06g11010,Os06g0213100,OsR498G0611846900.01,NA,S5-ORF5,"eukaryotic aspartyl protease domain containing protein, expressed","Yang et al., 2012"
+NUE,LOC_Os06g12310,Os06g0228200,OsR498G0611927800.01,NA,Lsi6,"aquaporin protein, putative, expressed","Yamaji et al., 2008"
+Abiotic stress,LOC_Os06g36670,Os06g0562200,OsR498G0612770700.01,NA,PYL9,"bet v I allergen family protein, putative, expressed","Zhao et al., 2016a"
+NUE,LOC_Os06g40120,Os06g0603600,OsR498G0612897800.01,NA,SPX1,"SPX domain containing protein, putative, expressed","Wang et al., 2014e"
+NUE,LOC_Os06g48060,Os06g0695800,OsR498G0613235600.01,NA,STAR1,"ABC transporter, ATP-binding protein, putative, expressed","Huang et al., 2009a"
+NUE,LOC_Os06g48800,Os06g0701600,OsR498G0613256400.01,NA,OsHKT2;4,"OsHKT2;4 - Na%2B transporter, expressed","Lan et al., 2010"
+NUE,LOC_Os06g49250,Os06g0706500,OsR498G0613276500.01,NA,OsPTR9,"peptide transporter PTR2, putative, expressed","Fang et al., 2013"
+NUE,LOC_Os06g49250,Os06g0706400,OsR498G0613276500.01,NA,OsPTR9,"peptide transporter PTR2, putative, expressed","Fang et al., 2013"
+Reproductive development,LOC_Os07g04670,Os07g0139300,OsR498G0713486200.01,NA,G1,"DUF640 domain containing protein, putative, expressed","Yoshida et al., 2009"
+Yield/grain size,LOC_Os07g32170,Os07g0505200,OsR498G0714384000.01,NA,OsSPL13,"OsSPL13 - SBP-box gene family member, expressed","Si et al., 2016"
+Yield/grain size,LOC_Os07g32170,Os07g0505200,OsR498G0714383700.01,NA,OsSPL13,"OsSPL13 - SBP-box gene family member, expressed","Si et al., 2016"
+Disease resistance,LOC_Os07g40290,Os07g0592600,OsR498G0714682600.01,NA,GH3-8,"OsGH3.8 - Probable indole-3-acetic acid-amido synthetase, expressed","Ding et al., 2008"
+Yield/grain size,LOC_Os07g41200,Os07g0603300,OsR498G0714717400.01,NA,GW7,expressed protein,"Wang et al., 2015b"
+Yield/grain size,LOC_Os07g41200,Os07g0603300,OsR498G0714717500.01,NA,GW7,expressed protein,"Wang et al., 2015b"
+Yield,LOC_Os07g42410,Os07g0616000,OsR498G0714754700.01,NA,DEP2,expressed protein,"Li et al., 2010a"
+NUE,LOC_Os07g48980,Os07g0689600,OsR498G0715001100.01,NA,OsNAS3,"nicotianamine synthase, putative, expressed","Lee et al., 2009"
+Yield,LOC_Os07g49460,Os07g0695100,OsR498G0715020100.01,NA,Ghd7.1,"response regulator receiver domain containing protein, expressed","Yan et al., 2013"
+Reproductive development,LOC_Os08g01870,Os08g0110200,OsR498G0815054900.01,NA,RF6,"Rf1, mitochondrial precursor, putative, expressed","Huang et al., 2015a"
+Grain quality,LOC_Os08g09230,Os08g0191433,OsR498G0815345700.01,NA,SSIIIa,"starch synthase III, putative, expressed","Zhou et al., 2016"
+Grain quality,LOC_Os08g09230,Os08g0191433,OsR498G0815345900.01,NA,SSIIIa,"starch synthase III, putative, expressed","Zhou et al., 2016"
+Grain quality,LOC_Os08g32870,Os08g0424500,OsR498G0816109100.01,NA,Badh2,"aldehyde dehydrogenase, putative, expressed","Chen et al., 2008"
+Disease resistance,LOC_Os08g34580,Os08g0445700,OsR498G0816196900.01,NA,Tps1,"trehalose-6-phosphate synthase, putative, expressed","Wilson et al., 2010"
+Yield,LOC_Os08g37890,Os08g0485500,OsR498G0816341300.01,NA,GAD1,expressed protein,"Jin et al., 2016"
+Abiotic stress,LOC_Os09g15430,Os09g0323100,OsR498G0917151800.01,NA,SUB1A,"zinc finger family protein, putative, expressed","Singh and Sinha, 2016"
+Abiotic stress,LOC_Os09g19900,Os09g0363600,OsR498G0917252200.01,NA,DWA1,"WD domain, G-beta repeat domain containing protein, expressed","Zhu and Xiong, 2013"
+Reproductive development,LOC_Os09g31031,Os09g0483400,OsR498G0917709100.01,NA,UbL404,"ubiquitin family protein, putative, expressed","Zhou et al., 2014"
+Reproductive development,LOC_Os10g35240,Os10g0495200,OsR498G1018973800.01,NA,Rf4,"Rf1, mitochondrial precursor, putative, expressed","Luo et al., 2013a"
+Reproductive development,LOC_Os10g35240,Os10g0495200,OsR498G1018975000.01,NA,Rf4,"Rf1, mitochondrial precursor, putative, expressed","Luo et al., 2013a"
+Reproductive development,LOC_Os10g35240,Os10g0495200,OsR498G1018978200.01,NA,Rf4,"Rf1, mitochondrial precursor, putative, expressed","Luo et al., 2013a"
+Reproductive development,LOC_Os10g35240,Os10g0495200,OsR498G1018978800.01,NA,Rf4,"Rf1, mitochondrial precursor, putative, expressed","Luo et al., 2013a"
+Reproductive development,LOC_Os10g35240,Os10g0495200,OsR498G1018976000.01,NA,Rf4,"Rf1, mitochondrial precursor, putative, expressed","Luo et al., 2013a"
+Reproductive development,LOC_Os10g35436,Os10g0497300,OsR498G1018983700.01,NA,RF5,"Rf1, mitochondrial precursor, putative, expressed","Hu et al., 2012"
+Reproductive development,LOC_Os10g35436,Os10g0497300,OsR498G1018983100.01,NA,RF5,"Rf1, mitochondrial precursor, putative, expressed","Hu et al., 2012"
+Reproductive development,LOC_Os10g35436,Os10g0497300,OsR498G1018984100.01,NA,RF5,"Rf1, mitochondrial precursor, putative, expressed","Hu et al., 2012"
+Reproductive development,LOC_Os10g38050,Os10g0524500,OsR498G1019070300.01,NA,OsNP1,"HOTHEAD precursor, putative, expressed","Chang et al., 2016"
+NUE,LOC_Os10g40600,Os10g0554200,OsR498G1019162400.01,NA,NRT1.1B,"peptide transporter PTR2, putative, expressed","Hu et al., 2015a"
+Yield,LOC_Os11g01330,Os11g0104300,OsR498G1119284300.01,NA,D53,expressed protein,"Jiang et al., 2013; Zhou et al., 2013"
+Disease resistance,LOC_Os11g30910,Os11g0505300,OsR498G1120199500.01,NA,STV11,"sulfotransferase domain containing protein, expressed","Wang et al., 2014d"
+Disease resistance,LOC_Os11g30910,Os11g0505300,OsR498G1120198900.01,NA,STV11,"sulfotransferase domain containing protein, expressed","Wang et al., 2014d"
+Disease resistance,LOC_Os11g35500,Os11g0559200,OsR498G1120353500.01,NA,Xa21,"receptor-like protein kinase 5 precursor, putative, expressed","Park and Ronald, 2012"
+Disease resistance,LOC_Os12g29220,Os12g0476200,OsR498G1221587200.01,NA,Xa25,"nodulin MtN3 family protein, putative, expressed","Richter et al., 2014"
+NUE,LOC_Os12g44150,Os12g0638700,OsR498G1222181700.01,NA,H+-ATPase,"plasma membrane ATPase, putative, expressed","Wang et al., 2014a"
+Grain quality,LOC_Os01g10110,Os01g0197700,OsR498G0100344200.01,NA,Gn1a,"cytokinin dehydrogenase precursor, putative, expressed",NA
+Transcription factor,LOC_Os01g44260,Os01g0633500,OsR498G0101599900.01,NA,RD,"dihydroflavonol-4-reductase, putative, expressed",NA
+Disease resistance,LOC_Os11g38580,Os11g0598500,OsR498G1171011800.01,NA,Pb1,"NBS-LRR type disease resistance protein, putative, expressed",NA
+Disease resistance,LOC_Os01g05620,Os01g0149500,OsR498G0100178200.01,NA,PIT,"NBS-LRR disease resistance protein, putative, expressed",NA
+Disease resistance,LOC_Os11g11790,Os11g0225100,OsR498G1119642600.01,NA,PIA (Os11gRGA4),"NBS-LRR type disease resistance protein, putative, expressed",NA
+Disease resistance,LOC_Os11g11810,Os11g0225300,OsR498G1119642700.01,NA,PIA (Os11gRGA5),"NBS-LRR disease resistance protein, putative, expressed",NA
+Disease resistance,LOC_Os12g18729,Os12g0285100,OsR498G1221325200.01,NA,Pi19,expressed protein,NA
+Disease resistance,LOC_Os12g18729,Os12g0285100,OsR498G1221324900.01,NA,Pi19,expressed protein,NA
+Yield,LOC_Os05g26890,Os05g0333200,NA,NA,D1,G protein alpha subunit,"Miura et al., 2009"
+Yield,LOC_Os11g37600,NA,NA,NA,D27,Iron-containing protein,"Lin et al., 2009"
+Yield/grain size,DQ991205,NA,NA,NA,GW5,Calmodulin binding protein,"Weng et al., 2008"
+Yield,LOC_Os07g05900,Os07g0153600,NA,NA,PROG1,ZFN transcription factor,"Tan et al., 2008"
+Disease resistance,LOC_Os03g32230,Os03g0437200,NA,NA,Bsr-d1,ZFN transcription factor,"Li et al., 2017b"
+Disease resistance,KU904633,NA,NA,NA,PigmR/S,Pyricularia oryzae resistance-gm,"Deng et al., 2017"
+Disease resistance,EDK00306,NA,NA,NA,TIG1,HDAC transcriptional corepressor complex,"Ding et al., 2010"
+Disease resistance,LOC_Os11g37620,Os11g0586701,NA,NA,Xa10,TAL effector-dependent R gene,"Tian et al., 2014"
+Resistance to Insects,LOC_Os04g12580,Os04g0202500,NA,NA,BPH3,Lectin receptor kinase 3,"Liu et al., 2015c"
+Resistance to Insects,LOC_Os12g37280/90,Os12g0559400,NA,NA,BPH9,Leucine-rich repeat-containing/NB-ARC protein,"Zhao et al., 2016b"
+Resistance to Insects,LOC_Os03g63150,Os03g0848700,NA,NA,BPH14,CC-NB-LRR protein,"Du et al., 2009"
+Abiotic stress,AB510478,NA,NA,NA,SNORKEL1,Ethylene response factor,"Hattori et al., 2009"
+Abiotic stress,AB510479,NA,NA,NA,SNORKEL2,Ethylene response factor,"Hattori et al., 2009"
+NUE,BAK26566,NA,NA,NA,PSTOL1,Phosphorus-starvation tolerance,"Gamuyao et al., 2012"
+Reproductive development,DQ989628,NA,NA,NA,PMS1T,PHAS locus,"Fan et al., 2016b"
+Reproductive development,JQ317784/JQ317785,NA,NA,NA,pms3,Photosensitive genic male sterility genes,"Ding et al., 2012"
+Reproductive development,JX131325,NA,NA,NA,Rf3,Pollen fertility restoration-3,"Luo et al., 2013a"
+Reproductive development,LOC_Os06g11000,NA,NA,NA,S5-ORF4,Wide compatibility gene,"Yang et al., 2012"
+NA,NA,Os03g0407400,NA,NA,GS3,GRAIN SIZE 3,RAPDB
+NA,LOC_Os01g62780,Os01g0846450,NA,NA,HESO1,a homolog of Arabidopsis thaliana HEN1 suppressor 1,RAPDB
+NA,LOC_Os01g57340,Os01g0782100,NA,NA,PISH,PYRICULARIA ORYZAE RESISTANCE SH,RAPDB
+NA,LOC_Os10g04010,Os10g0130000,NA,NA,RBG1,NA,RAPDB
+NA,LOC_Os06g06300.1,Os06g0157500,NA,NA,RFT1,RICE FLOWERING-LOCUS T 1,RAPDB
