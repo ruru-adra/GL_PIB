@@ -1,0 +1,46 @@
+Accession  ,Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len
+AF466202.2,"Zea mays putative pol protein gene, partial cds; and putative gag-pol precursor -orf2, putative Fourf gag/pol protein, putative NADP-dependent malic enzyme, putative argonaute protein, putative pinhead protein, putative pol protein, putative gag protein, putative TNP2, r1-B73 proteins, putative genetic modifier, putative S-receptor kinase, putative aldose reductase-related protein, putative glutathione peroxidase, putative glycerol 3-phosphate permease, putative response regulator, and putative 4-coumarate-CoA ligase-like protein genes, complete cds",Zea mays,4008,4008,100%,0,100,290350
+DQ414252.1,"Zea mays anthocyanin regulatory LC protein (lc1) gene, complete cds",Zea mays,3986,3986,100%,0,99.82,9539
+U93178.1,"Zea mays helix-loop-helix type transcription factor R (R-d:Catspaw allele) gene, exon 1, inverted repeat, partial cds",Zea mays,3445,6352,87%,0,99.58,4279
+AF380388.1,"Zea mays haplotype R-St helix-loop-helix transcription factor R1 (r) gene, r-st allele, 5' flanking region and partial cds",Zea mays,1223,1223,30%,0,99.7,4264
+AF380390.1,"Zea mays haplotype R-r helix-loop-helix transcription factor R1 (r) gene, r-P allele, 5' flanking region",Zea mays,1181,1181,29%,0,99.69,4702
+AF135456.1,"Zea mays haplotype R-mb helix-loop-helix type transcription factor R1 (r1) gene, r1-Lcm1 allele, partial cds",Zea mays,1116,1116,27%,0,99.84,2166
+AF135458.1,"Zea mays haplotype R-mb helix-loop-helix type transcription factor R1 (r1) gene, r1-Scm allele, partial cds",Zea mays,1109,1109,27%,0,99.67,1470
+AF135457.1,"Zea mays haplotype R-mb helix-loop-helix type transcription factor R1 (r1) gene, r1-Lcm2 allele, partial cds",Zea mays,1109,1109,27%,0,99.67,2170
+NM_001112603.2,"Zea mays seed color component at R1 (R-S), mRNA",Zea mays,985,985,24%,0,100,2381
+X60706.1,"Maize SN mRNA, involved in tissue-specific anthocyanin expression",Zea mays,981,981,24%,0,99.81,2572
+AJ251719.1,Zea mays mRNA for transcription factor (hopi gene),Zea mays,900,900,24%,0,97.21,2554
+AY029766.1,"Zea mays anthocyanin regulator R-sc protein gene, partial cds",Zea mays,843,843,22%,0,98.34,481
+NM_001111869.2,"Zea mays seed color component at R1 (R-S), mRNA",Zea mays,682,982,24%,0,100,2633
+M26227.1,"Zea mays Lc regulatory protein mRNA, complete cds",Zea mays,682,982,24%,0,100,2605
+XM_008663061.4,"PREDICTED: Zea mays seed color component at R1 (R-S), transcript variant X2, mRNA",Zea mays,651,956,23%,0,100,2624
+AF106323.1,"Zea mays S1 protein (S1) gene, partial cds; R-r complex sigma region, complete sequence; and S2 protein (S2) gene, partial cds",Zea mays,601,1202,15%,1.00E-166,99.7,1040
+X15806.1,Maize anthocyanin regulatory R-S mRNA,Zea mays,534,534,13%,1.00E-146,98.99,2309
+X67619.2,"Zea mays Sn:bo13 gene, promoter sequence",Zea mays,377,377,9%,2.00E-99,100,1492
+AJ251720.1,Zea mays hopi gene promoter region,Zea mays,372,372,9%,1.00E-97,99.51,1489
+XM_008663065.4,"PREDICTED: Zea mays seed color component at R1 (R-S), transcript variant X5, mRNA",Zea mays,309,607,15%,9.00E-79,100,2435
+XM_008663063.4,"PREDICTED: Zea mays seed color component at R1 (R-S), transcript variant X3, mRNA",Zea mays,303,401,10%,4.00E-77,99.4,2324
+XM_008663064.4,"PREDICTED: Zea mays seed color component at R1 (R-S), transcript variant X4, mRNA",Zea mays,302,558,13%,1.00E-76,100,2410
+XM_035962858.1,"PREDICTED: Zea mays seed color component at R1 (R-S), transcript variant X1, mRNA",Zea mays,300,432,10%,5.00E-76,100,2339
+XM_008663066.3,"PREDICTED: Zea mays seed color component at R1 (R-S), transcript variant X6, mRNA",Zea mays,296,296,7%,7.00E-75,100,2288
+XR_002263430.1,"PREDICTED: Zea mays uncharacterized LOC103632787 (LOC103632787), transcript variant X14, misc_RNA",Zea mays,291,291,11%,3.00E-73,87.07,2825
+XR_002263429.1,"PREDICTED: Zea mays uncharacterized LOC103632787 (LOC103632787), transcript variant X13, misc_RNA",Zea mays,291,291,11%,3.00E-73,87.07,4359
+XR_002263428.1,"PREDICTED: Zea mays uncharacterized LOC103632787 (LOC103632787), transcript variant X12, misc_RNA",Zea mays,291,291,11%,3.00E-73,87.07,3242
+XR_002263425.1,"PREDICTED: Zea mays uncharacterized LOC103632787 (LOC103632787), transcript variant X11, misc_RNA",Zea mays,291,291,11%,3.00E-73,87.07,4480
+XR_002263432.2,"PREDICTED: Zea mays uncharacterized LOC103632787 (LOC103632787), transcript variant X15, misc_RNA",Zea mays,291,291,11%,3.00E-73,87.07,5259
+XM_035961025.1,"PREDICTED: Zea mays uncharacterized LOC103632787 (LOC103632787), transcript variant X6, mRNA",Zea mays,291,291,11%,3.00E-73,87.07,3167
+XM_020540952.2,"PREDICTED: Zea mays uncharacterized LOC103632787 (LOC103632787), transcript variant X5, mRNA",Zea mays,291,291,11%,3.00E-73,87.07,3680
+XM_020540951.2,"PREDICTED: Zea mays uncharacterized LOC103632787 (LOC103632787), transcript variant X2, mRNA",Zea mays,291,291,11%,3.00E-73,87.07,5228
+XM_020540950.2,"PREDICTED: Zea mays uncharacterized LOC103632787 (LOC103632787), transcript variant X1, mRNA",Zea mays,291,291,11%,3.00E-73,87.07,5421
+MN380788.1,"Expression vector pHP88158, complete sequence",Expression vector pHP88158,285,285,7%,2.00E-71,100,16579
+KJ726800.1,"Zea mays clone pUT3027 bHLH transcription factor (bHLH1) mRNA, partial cds",Zea mays,279,279,7%,7.00E-70,99.35,1830
+AY336078.1,"Zea mays BHLH protein (r2k1) mRNA, complete cds",Zea mays,278,278,7%,3.00E-69,99.35,1830
+KP027640.1,"Zea mays cultivar Red diamond bHLH protein mRNA, complete cds",Zea mays,272,272,7%,1.00E-67,98.69,1839
+DQ002406.1,"Zea mays copia retrotransposon ji and helitron Mo17_14577, complete sequence",Zea mays,270,480,12%,4.00E-67,85.61,92777
+BT064153.1,"Zea mays full-length cDNA clone ZM_BFc0143C22 mRNA, complete cds",Zea mays,259,259,12%,9.00E-64,84.85,1805
+KR154229.1,"Zea mays cultivar W822GSe sugary enhancer1 (Se1) gene, complete cds",Zea mays,237,237,11%,4.00E-57,83.27,23368
+XM_020547010.2,"PREDICTED: Zea mays uncharacterized LOC103645703 (LOC103645703), transcript variant X14, mRNA",Zea mays,54.7,54.7,1%,0.046,96.88,5182
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,"		",,,,,,,
